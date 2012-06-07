@@ -1,0 +1,5 @@
+out sidestepping 4 3 2
+out interestedness 5 4 2
+out interestedly 5 4 2
+out grotesqueness 4 3 2
+out picturesqueness 5 4 2

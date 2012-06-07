@@ -1,0 +1,15 @@
+out deceptiveness 5 4 2
+out acknowledgements 5 4 2
+out pacesetter 4 3 2
+out perceptiveness 5 4 2
+out gracelessly 4 3 2
+out offenceless 4 3 2
+out commencements 4 3 2
+out apprenticeship 5 4 2
+out pacesetters 4 3 2
+out acknowledgement 5 4 2
+out defenceless 4 3 2
+out gracelessness 4 3 2
+out commencement 4 3 2
+out receptiveness 5 4 2
+out apprenticeships 5 4 2

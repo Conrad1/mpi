@@ -1,0 +1,29 @@
+RUNNING the program
+
+FILES: 
+MultiProcessParams.txt (ENGLISH) ItalianMultiProcessParams.txt GermanMultiProcessParams.txt
+Takes 2 numbers at the start -- the number of processes (Remember to include 1 extra for the master) and the number of files you want run at the same time 
+The next line(s) are :
+Number of Processes, word file, tag for output name, and parameter file
+
+If you want to test everything before running it on the server, try
+mpiexec -n [processes] zornet
+
+To run on the server, type
+qsub zornet2.job (or whaterver the job name is).
+
+
+
+
+
+
+
+------------------------------------------------------
+programming stuff -- Visual C++ to UNIX
+
+Two directories need to be changed to get the program.
+One is at the start of the ZoriNet.cpp program, the other is at the start of the First.cpp porgram
+
+The mpi directory needs to be changed to where it is.
+
+Be careful of DRC_OS. Some things will crash the UNIX mode (try taking out all the fprintf stuff

@@ -1,0 +1,2983 @@
+agilely  3 2 [g] 
+expressway  3 0 <x> <p> <r> 
+lodestar  4 2 <d> <e> <s> <t> 
+tranquillizer  2 1 <n> <qu> 
+explanations  3 0 <x> <p> <l> 
+extreme  3 0 <x> <t> <r> 
+forcefully  3 2 <c> <e> <f> 
+stalemating  3 2 <l> <e> <m> 
+misspent  2 0 <ss> <p> 
+clotheshorse  4 1 <t> <h> <e> <sh> 
+expurgation  2 0 <x> <p> 
+expiating  2 0 <x> <p> 
+subdued  2 1 <b> <d> 
+desolately  3 2 [s] 
+exterminate  2 0 <x> <t> 
+postponements  3 2 <s> <t> [p] 
+shapelier  3 2 <p> <e> <l> 
+chestnuts  3 2 <s> <t> <n> 
+tightfisted  3 2 <gh> <t> <f> 
+transcendence  3 1 <n> <s> <c> 
+wastebaskets  4 3 <s> <t> <e> <b> 
+explainer  3 1 <x> <p> <l> 
+smokeless  3 2 <k> <e> <l> 
+contusions  2 1 <n> <t> 
+twelvemonth  4 3 <l> <v> <e> <m> 
+expatriate  2 1 <x> <p> 
+lightships  3 2 <gh> <t> <sh> 
+persuasively  3 2 [s] 
+insulating  2 1 <n> <s> 
+distinctively  3 2 [s] [t] 
+arseholes  3 2 <s> <e> <h> 
+hedgehopped  3 2 <dg> <e> <h> 
+baseline  3 2 <s> <e> <l> 
+inquiries  2 1 <n> <qu> 
+quintuplet  2 1 <n> <t> 
+dissemblers  2 1 [ss] 
+tunefully  3 2 <n> <e> <f> 
+confused  2 1 <n> <f> 
+shapelessly  3 2 <p> <e> <l> 
+scapegoats  3 2 <p> <e> <g> 
+safebreakers  4 2 <f> <e> <b> <r> 
+disbursement  3 2 <s> [b] 
+sideswipe  4 2 <d> <e> <s> <w> 
+actuaries  2 1 <c> <t> 
+computers  2 1 <m> <p> 
+praiseworthily  3 2 <s> <e> <w> 
+cheesecake  3 2 <s> <e> <c> 
+subsumed  2 1 <b> <s> 
+extrusion  3 1 <x> <t> <r> 
+strikebreakers  4 2 <k> <e> <b> <r> 
+widely  3 2 <d> <e> <l> 
+expurgated  2 0 <x> <p> 
+calculating  2 1 <l> <c> 
+exteriorized  2 0 <x> <t> 
+confusedly  2 1 <n> <f> 
+nightmare  3 2 <gh> <t> <m> 
+replacements  3 2 [p] [l] 
+extended  2 0 <x> <t> 
+exploited  3 0 <x> <p> <l> 
+applejack  3 2 [pp] 
+broadswords  3 1 <d> <s> <w> 
+guilelessness  3 2 <l> <e> <l> 
+incurious  2 1 <n> <c> 
+lightship  3 2 <gh> <t> <sh> 
+nightshades  3 2 <gh> <t> <sh> 
+lightsomely  3 2 <gh> <t> <s> 
+lightsomely  3 2 <gh> <t> [s] 
+housemaster  3 2 <s> <e> <m> 
+excruciate  3 0 <x> <c> <r> 
+lovebirds  3 2 <v> <e> <b> 
+explained  3 0 <x> <p> <l> 
+wasteland  4 3 <s> <t> <e> <l> 
+lifelines  3 2 <f> <e> <l> 
+inanely  3 2 <n> 
+gentlemen  3 2 <n> [t] 
+centreboard  3 1 <n> <t> <r> 
+uprightness  3 2 <p> [r] 
+horseflies  4 2 <s> <e> <f> <l> 
+voluptuaries  2 1 [l] 
+rosebud  3 2 <s> <e> <b> 
+sweetenings  3 2 <t> <e> <n> 
+advancement  4 3 <d> [v] 
+ensues  2 1 <n> <s> 
+extrapolate  3 0 <x> <t> <r> 
+liegemen  3 2 <g> <e> <m> 
+praiseworthy  3 2 <s> <e> <w> 
+acquaintanceships  4 3 [c] [qu] 
+jodhpurs  3 2 <d> <h> <p> 
+disquisition  2 1 <s> <qu> 
+stoneless  3 2 <n> <e> <l> 
+interestedness  2 1 <n> <t> 
+interestedness  5 4 <n> [t] 
+homeward  3 2 <m> <e> <w> 
+wastelands  4 3 <s> <t> <e> <l> 
+sheikhdom  3 2 <k> <h> <d> 
+explicating  3 0 <x> <p> <l> 
+diffuseness  3 2 [ff] 
+oxcarts  2 1 <x> <c> 
+expo  2 0 <x> <p> 
+seclusively  3 2 [c] [l] 
+salesgirls  4 3 <l> <e> <s> <g> 
+skateboarders  3 2 <t> <e> <b> 
+balefully  3 2 <l> <e> <f> 
+nerveless  3 2 <v> <e> <l> 
+seductively  3 2 [d] 
+externally  2 0 <x> <t> 
+paleness  3 2 <l> <e> <n> 
+effusiveness  3 2 [ff] 
+ropedancers  3 2 <p> <e> <d> 
+inactively  3 2 <n> 
+wifely  3 2 <f> <e> <l> 
+clothesbasket  4 3 <th> <e> <s> <b> 
+forgiveness  3 2 [g] 
+ornately  3 2 [n] 
+extra  3 0 <x> <t> <r> 
+extent  2 0 <x> <t> 
+consciences  3 1 <n> <s> <c> 
+expert  2 0 <x> <p> 
+transcendency  3 1 <n> <s> <c> 
+handlebars  3 2 <n> [d] 
+wholesale  3 2 <l> <e> <s> 
+dovecote  3 2 <v> <e> <c> 
+impoliteness  3 2 <m> [p] 
+shapelessness  3 2 <p> <e> <l> 
+marlinespike  4 2 [l] 
+frightfulness  3 2 <gh> <t> <f> 
+estuary  2 1 <s> <t> 
+nightline  3 2 <gh> <t> <l> 
+entitlements  3 2 <n> [t] 
+handsomer  3 2 <n> <d> <s> 
+isinglass  2 1 [s] 
+bonemeal  3 2 <n> <e> <m> 
+doodlebugs  3 2 [d] 
+spadefuls  3 2 <d> <e> <f> 
+whitebait  3 2 <t> <e> <b> 
+doleful  3 2 <l> <e> <f> 
+exchanging  2 1 <x> <ch> 
+expansion  2 0 <x> <p> 
+battledores  3 2 [tt] 
+grandson  3 2 <n> <d> <s> 
+placemen  3 2 <c> <e> <m> 
+salesman  4 3 <l> <e> <s> <m> 
+selectiveness  3 2 [l] 
+puzzlement  3 2 [zz] 
+resettlements  3 2 [s] 
+immensely  4 3 [mm] 
+transsexual  2 1 <n> <ss> 
+lukewarmness  3 2 <k> <e> <w> 
+turtlenecks  3 2 [t] 
+obdurate  2 1 <b> <d> 
+nosebleed  4 2 <s> <e> <b> <l> 
+acquaintanceship  4 3 [c] [qu] 
+repulsively  3 2 [p] 
+ropewalk  3 2 <p> <e> <w> 
+sulphuretting  2 1 <l> <ph> 
+tasteful  4 3 <s> <t> <e> <f> 
+intensively  3 2 <n> [t] 
+folkways  3 2 <l> <k> <w> 
+disparagements  3 2 [s] [p] 
+sidesplitting  5 2 <d> <e> <s> <p> <l> 
+transmuting  3 2 <n> <s> <m> 
+housefly  4 2 <s> <e> <f> <l> 
+export  2 0 <x> <p> 
+enthusiast  2 1 <n> <th> 
+baseballs  3 2 <s> <e> <b> 
+tableland  3 2 [b] 
+tranquillizers  2 1 <n> <qu> 
+extroversion  3 1 <x> <t> <r> 
+placeseekers  3 2 <c> <e> <s> 
+snidely  3 2 <d> <e> <l> 
+householders  3 2 <s> <e> <h> 
+housebound  3 2 <s> <e> <b> 
+sightliness  3 2 <gh> <t> <l> 
+massiveness  3 2 [ss] 
+makeshift  3 2 <k> <e> <sh> 
+gymkhanas  3 1 <m> <k> <h> 
+extirpates  2 0 <x> <t> 
+subconsciously  3 1 <b> [c] 
+pharynxes  2 0 [r] 
+wavelengths  3 2 <v> <e> <l> 
+exports  2 0 <x> <p> 
+ceaseless  3 2 <s> <e> <l> 
+actuate  2 1 <c> <t> 
+stateside  3 2 <t> <e> <s> 
+caveman  3 2 <v> <e> <m> 
+sextette  2 1 <x> <t> 
+compulsively  3 2 <m> [p] 
+lovelier  3 2 <v> <e> <l> 
+tapeworms  3 2 <p> <e> <w> 
+brakeman  3 2 <k> <e> <m> 
+offensiveness  3 2 [ff] 
+explains  3 0 <x> <p> <l> 
+inexpedient  2 0 <n> 
+exploiting  3 0 <x> <p> <l> 
+shamelessness  3 2 <m> <e> <l> 
+unconsciously  3 1 <n> [c] 
+bereavements  3 2 [r] 
+consanguineous  2 1 <n> [s] 
+wisely  3 2 <s> <e> <l> 
+exponents  2 0 <x> <p> 
+driveway  3 2 <v> <e> <w> 
+expectorate  2 0 <x> <p> 
+penumbras  2 1 [n] 
+whiteness  3 2 <t> <e> <n> 
+eightpence  3 2 <gh> <t> <p> 
+exclaiming  3 0 <x> <c> <l> 
+expansiveness  2 0 <x> <p> 
+expansiveness  3 2 [x] [p] 
+expectance  2 0 <x> <p> 
+salesroom  4 3 <l> <e> <s> <r> 
+housekeeping  3 2 <s> <e> <k> 
+abusively  3 2 [b] 
+conducive  2 1 <n> <d> 
+inexperience  2 0 <n> 
+saleswoman  4 3 <l> <e> <s> <w> 
+language  2 1 <n> <g> 
+cursively  3 2 [s] 
+bridgehead  3 2 <dg> <e> <h> 
+lifelessness  3 2 <f> <e> <l> 
+cinquefoils  4 1 <n> <qu> <e> <f> 
+voluptuary  2 1 [l] 
+baseness  3 2 <s> <e> <n> 
+extrusions  3 1 <x> <t> <r> 
+acutely  3 2 [c] 
+obscene  3 1 <b> <s> <c> 
+endurance  2 1 <n> <d> 
+extremists  3 0 <x> <t> <r> 
+hateful  3 2 <t> <e> <f> 
+grandmothers  3 2 <n> <d> <m> 
+yachtswoman  4 3 <ch> <t> <s> <w> 
+explicably  3 0 <x> <p> <l> 
+statesmanlike  4 3 <t> <e> <s> <m> 
+huckleberry  3 2 [ck] 
+comeliness  3 2 <m> <e> <l> 
+housemaids  3 2 <s> <e> <m> 
+juxtaposed  2 0 <x> <t> 
+destructively  3 2 <s> [t] [r] 
+typesetting  3 2 <p> <e> <s> 
+boxfuls  2 1 <x> <f> 
+convulsively  3 2 <n> [v] 
+timely  3 2 <m> <e> <l> 
+strikebreaking  4 2 <k> <e> <b> <r> 
+noblemen  3 2 [b] 
+homewards  3 2 <m> <e> <w> 
+passively  3 2 [ss] 
+somnambulists  2 1 <m> [n] 
+folksier  3 2 <l> <k> <s> 
+rustlings  3 2 <s> <t> <l> 
+subhuman  2 1 <b> <h> 
+cockleshells  3 2 [ck] 
+grandparent  3 2 <n> <d> <p> 
+assemblymen  2 1 [ss] 
+achievement  3 2 [ch] 
+dovetail  3 2 <v> <e> <t> 
+limekilns  3 2 <m> <e> <k> 
+partitively  3 2 [t] 
+nightlight  3 2 <gh> <t> <l> 
+stalemates  3 2 <l> <e> <m> 
+sidekick  3 2 <d> <e> <k> 
+transversely  3 2 <n> <s> [v] 
+nosecones  3 2 <s> <e> <c> 
+thoughtful  3 2 <gh> <t> <f> 
+rightward  3 2 <gh> <t> <w> 
+escapements  3 2 [s] [c] 
+sidetrack  4 2 <d> <e> <t> <r> 
+textured  2 1 <x> <t> 
+progressively  3 2 [g] [r] 
+reversely  3 2 [v] 
+enthusiasts  2 1 <n> <th> 
+thimbleful  3 2 <m> [b] 
+dextrose  3 1 <x> <t> <r> 
+gentleman  3 2 <n> [t] 
+seductiveness  3 2 [d] 
+protectiveness  3 2 [t] 
+spadework  3 2 <d> <e> <w> 
+centrepiece  3 1 <n> <t> <r> 
+extravagance  3 1 <x> <t> <r> 
+foxhound  2 1 <x> <h> 
+needlework  3 2 [d] 
+stateliness  3 2 <t> <e> <l> 
+gracefully  3 2 <c> <e> <f> 
+possessiveness  3 2 [ss] 
+mixture  2 1 <x> <t> 
+positively  3 2 [s] 
+lovemaking  3 2 <v> <e> <m> 
+rhinestones  4 2 <n> <e> <s> <t> 
+hopeless  3 2 <p> <e> <l> 
+enlargement  3 2 <n> [l] 
+icepack  3 2 <c> <e> <p> 
+endurable  2 1 <n> <d> 
+overstatement  3 2 [v] 
+allusively  3 2 [ll] 
+exportable  2 0 <x> <p> 
+grandniece  3 2 <n> <d> <n> 
+ungratefulness  3 2 <n> [g] [r] 
+halftones  3 2 <l> <f> <t> 
+hopeful  3 2 <p> <e> <f> 
+nightlong  3 2 <gh> <t> <l> 
+passionateness  3 2 [ss] 
+cockleshell  3 2 [ck] 
+dumbbell  3 2 <m> <b> <b> 
+expounds  2 0 <x> <p> 
+uprightly  3 2 <p> [r] 
+advertisements  3 2 <d> [v] 
+icerinks  3 2 <c> <e> <r> 
+externalized  2 0 <x> <t> 
+distinctiveness  3 2 [s] [t] 
+undulated  2 1 <n> <d> 
+resourceful  3 2 [s] 
+glandular  2 1 <n> <d> 
+penguin  2 1 <n> <g> 
+hometowns  3 2 <m> <e> <t> 
+nightly  3 2 <gh> <t> <l> 
+titleholders  3 2 [t] 
+mettlesome  3 2 [tt] 
+conquistador  2 1 <n> <qu> 
+untutored  2 1 <n> <t> 
+winsomeness  3 2 <n> [s] 
+lovebird  3 2 <v> <e> <b> 
+disquieting  2 1 <s> <qu> 
+extremely  3 0 <x> <t> <r> 
+extremely  3 2 [x] [t] [r] 
+omelette  3 2 <m> <e> <l> 
+temperately  3 2 <m> [p] 
+dalesman  4 3 <l> <e> <s> <m> 
+fineness  3 2 <n> <e> <n> 
+incubi  2 1 <n> <c> 
+typewrite  3 2 <p> <e> <wr> 
+rosebuds  3 2 <s> <e> <b> 
+undulate  2 1 <n> <d> 
+abstrusely  3 2 <b> [s] [t] [r] 
+weightlessness  3 2 <gh> <t> <l> 
+eruditely  3 2 [r] 
+exteriors  2 0 <x> <t> 
+distastefully  4 3 <s> [t] 
+hedgehops  3 2 <dg> <e> <h> 
+housefather  3 2 <s> <e> <f> 
+movement  3 2 <v> <e> <m> 
+confutes  2 1 <n> <f> 
+disparagement  3 2 [s] [p] 
+contumely  2 1 <n> <t> 
+contumely  3 2 <n> [t] 
+consumers  2 1 <n> <s> 
+unrelievedly  4 1 <n> <r> <e> <l> 
+unrelievedly  2 1 <n> [r] [e] [l] 
+wholesome  3 2 <l> <e> <s> 
+pensively  3 2 <n> [s] 
+scarcely  3 2 <c> <e> <l> 
+homecomings  3 2 <m> <e> <c> 
+intensely  4 3 <n> [t] 
+exposed  2 0 <x> <p> 
+foxhunter  2 1 <x> <h> 
+freightliners  3 2 <gh> <t> <l> 
+explainers  3 1 <x> <p> <l> 
+gatehouse  3 2 <t> <e> <h> 
+gratefully  3 2 <t> <e> <f> 
+cuttlefish  3 2 [tt] 
+descriptiveness  3 2 [s] [c] [r] 
+timelessly  3 2 <m> <e> <l> 
+disruptively  3 2 <s> [r] 
+horseshit  3 2 <s> <e> <sh> 
+spadeful  3 2 <d> <e> <f> 
+amputation  2 1 <m> <p> 
+transmute  3 2 <n> <s> <m> 
+exponential  2 0 <x> <p> 
+dumbbells  3 2 <m> <b> <b> 
+expansive  2 0 <x> <p> 
+carriageways  3 2 [r] 
+facecloth  4 2 <c> <e> <c> <l> 
+excuses  2 0 <x> <c> 
+bottlenecks  3 2 [tt] 
+prizefights  3 2 <z> <e> <f> 
+disgraceful  3 2 <s> [g] [r] 
+extinguishers  2 0 <x> <t> 
+extinguishers  2 1 [x] [t] 
+remotely  3 2 [m] 
+mistletoe  3 2 [s] [t] 
+homesteads  4 2 <m> <e> <s> <t> 
+vanquish  2 1 <n> <qu> 
+steerageway  3 2 [r] 
+handlebar  3 2 <n> [d] 
+battledress  4 2 [tt] 
+comradely  3 2 <m> [r] 
+spokesman  4 3 <k> <e> <s> <m> 
+pacemakers  3 2 <c> <e> <m> 
+fivepence  3 2 <v> <e> <p> 
+contusing  2 1 <n> <t> 
+foxhunts  2 1 <x> <h> 
+fiercely  3 2 <c> <e> <l> 
+houseboys  3 2 <s> <e> <b> 
+middlebrows  4 2 [dd] 
+confusingly  2 1 <n> <f> 
+eavesdrop  5 3 <v> <e> <s> <d> <r> 
+folkway  3 2 <l> <k> <w> 
+experiments  2 0 <x> <p> 
+extrudes  3 0 <x> <t> <r> 
+hodgepodge  3 2 <dg> <e> <p> 
+expedience  2 0 <x> <p> 
+gamecock  3 2 <m> <e> <c> 
+expropriate  3 1 <x> <p> <r> 
+obscurities  3 1 <b> <s> <c> 
+sheikhdoms  3 2 <k> <h> <d> 
+expectant  2 0 <x> <p> 
+excretions  3 0 <x> <c> <r> 
+peaceful  3 2 <c> <e> <f> 
+iceman  3 2 <c> <e> <m> 
+horseradish  3 2 <s> <e> <r> 
+troubleshooters  3 2 [b] 
+gobbledygook  3 2 [bb] 
+exclaim  3 0 <x> <c> <l> 
+conscientious  3 1 <n> <s> <c> 
+tidemarks  3 2 <d> <e> <m> 
+housewifery  3 2 <s> <e> <w> 
+confuses  2 1 <n> <f> 
+clothesline  4 3 <th> <e> <s> <l> 
+nightgown  3 2 <gh> <t> <g> 
+impure  2 1 <m> <p> 
+expressionists  3 0 <x> <p> <r> 
+nosebag  3 2 <s> <e> <b> 
+jinxes  2 0 <n> <x> 
+tranquillizing  2 1 <n> <qu> 
+defensiveness  3 2 [f] 
+expertness  2 0 <x> <p> 
+excavators  2 0 <x> <c> 
+nightclothes  4 2 <gh> <t> <c> <l> 
+expectations  2 0 <x> <p> 
+displacements  3 2 <s> [p] [l] 
+excused  2 0 <x> <c> 
+tideways  3 2 <d> <e> <w> 
+molehill  3 2 <l> <e> <h> 
+disablements  3 2 <s> 
+inquiring  2 1 <n> <qu> 
+excusing  2 0 <x> <c> 
+excavation  2 0 <x> <c> 
+loosely  3 2 <s> <e> <l> 
+sidelight  3 2 <d> <e> <l> 
+exchanges  2 1 <x> <ch> 
+housemothers  3 2 <s> <e> <m> 
+offensively  3 2 [ff] 
+mildews  2 1 <l> <d> 
+confuse  2 1 <n> <f> 
+sledgehammers  3 2 <dg> <e> <h> 
+blameworthy  3 2 <m> <e> <w> 
+inventorying  5 1 <n> <v> <e> <n> <t> 
+tablespoonful  4 2 [b] 
+transmutable  3 2 <n> <s> <m> 
+lightness  3 2 <gh> <t> <n> 
+sideswipes  4 2 <d> <e> <s> <w> 
+enduringly  2 1 <n> <d> 
+oxtails  2 1 <x> <t> 
+ingenuousness  4 1 <n> <g> <e> <n> 
+uninterested  2 1 <n> 
+bonehead  3 2 <n> <e> <h> 
+expose  2 0 <x> <p> 
+textual  2 0 <x> <t> 
+wakefully  3 2 <k> <e> <f> 
+experience  2 0 <x> <p> 
+linemen  3 2 <n> <e> <m> 
+inventoried  5 1 <n> <v> <e> <n> <t> 
+delinquencies  2 1 [l] 
+housefathers  3 2 <s> <e> <f> 
+timeliness  3 2 <m> <e> <l> 
+awakening  3 2 [w] 
+statehood  3 2 <t> <e> <h> 
+ropewalks  3 2 <p> <e> <w> 
+evasively  3 2 [v] 
+transfusions  3 2 <n> <s> <f> 
+ginkgoes  3 1 <n> <k> <g> 
+impudence  2 1 <m> <p> 
+namedroppers  4 2 <m> <e> <d> <r> 
+typeset  3 2 <p> <e> <s> 
+disbursements  3 2 <s> [b] 
+calculably  2 1 <l> <c> 
+iceberg  3 2 <c> <e> <b> 
+shamelessly  3 2 <m> <e> <l> 
+juxtapose  2 0 <x> <t> 
+urbanely  3 2 [b] 
+wavelength  3 2 <v> <e> <l> 
+politeness  3 2 [l] 
+someplace  4 2 <m> <e> <p> <l> 
+spacesuit  3 2 <c> <e> <s> 
+placekicks  3 2 <c> <e> <k> 
+wineglass  4 2 <n> <e> <g> <l> 
+smokescreen  5 2 <k> <e> <s> <c> <r> 
+machineguns  3 2 [ch] 
+restrictiveness  3 2 [s] [t] [r] 
+tersely  3 2 <s> <e> <l> 
+motiveless  3 2 [t] 
+tuneful  3 2 <n> <e> <f> 
+lifetime  3 2 <f> <e> <t> 
+expurgations  2 0 <x> <p> 
+defacements  3 2 [f] 
+scapegrace  4 2 <p> <e> <g> <r> 
+gentlemanly  3 2 <n> [t] 
+nobleman  3 2 [b] 
+humanely  3 2 [m] 
+housekeeper  3 2 <s> <e> <k> 
+battleground  4 2 [tt] 
+vanquishing  2 1 <n> <qu> 
+obscurant  3 1 <b> <s> <c> 
+salesrooms  4 3 <l> <e> <s> <r> 
+phrasebooks  3 2 <s> <e> <b> 
+incompletely  3 2 <n> [c] 
+landscapes  4 2 <n> <d> <s> <c> 
+bridegroom  4 2 <d> <e> <g> <r> 
+extensive  2 0 <x> <t> 
+servicewomen  3 2 [v] 
+expression  3 0 <x> <p> <r> 
+nonesuch  3 2 <n> <e> <s> 
+opaquely  3 2 [p] 
+misstate  2 0 <ss> <t> 
+extraction  3 0 <x> <t> <r> 
+expatriates  2 1 <x> <p> 
+halcyon  3 2 <l> <c> <y> 
+someway  3 2 <m> <e> <w> 
+clandestineness  5 1 <n> <d> <e> <s> <t> 
+hobbledehoys  3 2 [bb] 
+productively  3 2 [d] 
+typewrote  3 2 <p> <e> <wr> 
+appeasement  3 2 [pp] 
+expertly  2 0 <x> <p> 
+closely  3 2 <s> <e> <l> 
+perceptively  3 2 [c] 
+homespun  4 2 <m> <e> <s> <p> 
+intellectuals  2 1 <n> [t] 
+discipleship  3 2 [s] [c] 
+tempestuousness  5 1 <m> <p> <e> <s> <t> 
+vanquished  2 1 <n> <qu> 
+rattletraps  4 2 [tt] 
+dinghy  3 1 <n> <g> <h> 
+hopelessly  3 2 <p> <e> <l> 
+relinquishes  2 1 [l] 
+causelessly  3 2 <s> <e> <l> 
+loveless  3 2 <v> <e> <l> 
+beguilement  3 2 [g] 
+likewise  3 2 <k> <e> <w> 
+impurities  2 1 <m> <p> 
+calculate  2 1 <l> <c> 
+hedgerow  3 2 <dg> <e> <r> 
+vicereine  3 2 <c> <e> <r> 
+sidelights  3 2 <d> <e> <l> 
+postscripts  5 2 <s> <t> <s> <c> <r> 
+delusively  3 2 [l] 
+vineyard  3 2 <n> <e> <y> 
+chastisement  3 2 [s] [t] 
+pipeful  3 2 <p> <e> <f> 
+eavesdrops  5 3 <v> <e> <s> <d> <r> 
+literately  3 2 [t] 
+negatively  3 2 [g] 
+hugeness  3 2 <g> <e> <n> 
+smokescreens  5 2 <k> <e> <s> <c> <r> 
+wholemeal  3 2 <l> <e> <m> 
+insulators  2 1 <n> <s> 
+lightweights  3 2 <gh> <t> <w> 
+windmills  3 2 <n> <d> <m> 
+extract  3 0 <x> <t> <r> 
+henceforth  4 3 <n> <c> <e> <f> 
+muscleman  3 2 [s] [c] 
+expropriates  3 1 <x> <p> <r> 
+troublesome  3 2 [b] 
+expressing  3 0 <x> <p> <r> 
+timeworn  3 2 <m> <e> <w> 
+likelihood  3 2 <k> <e> <l> 
+fastenings  4 3 <s> <t> <e> <n> 
+unduly  2 1 <n> <d> 
+horsewomen  3 2 <s> <e> <w> 
+successively  3 2 [cc] 
+obsessionals  4 1 <b> <s> <e> <ss> 
+loneliness  3 2 <n> <e> <l> 
+aversively  3 2 [v] 
+onetime  3 2 <n> <e> <t> 
+assemblages  2 1 [ss] 
+hugely  3 2 <g> <e> <l> 
+cheesecakes  3 2 <s> <e> <c> 
+incurably  2 1 <n> <c> 
+spinelessly  3 2 <n> <e> <l> 
+discouragement  3 2 [s] [c] 
+excavating  2 0 <x> <c> 
+conscious  3 1 <n> <s> <c> 
+externalize  2 0 <x> <t> 
+lifelessly  3 2 <f> <e> <l> 
+exploits  3 0 <x> <p> <l> 
+bestially  2 1 <s> <t> 
+overexposed  2 0 [v] 
+extol  2 0 <x> <t> 
+expedites  2 0 <x> <p> 
+candlepower  3 2 <n> [d] 
+defacement  3 2 [f] 
+inquests  2 1 <n> <qu> 
+spineless  3 2 <n> <e> <l> 
+ensanguining  2 1 <n> [s] 
+emblem  2 1 <m> <b> 
+enthusing  2 1 <n> <th> 
+engagements  3 2 <n> [g] 
+extenuates  2 0 <x> <t> 
+housefuls  3 2 <s> <e> <f> 
+namedrop  4 2 <m> <e> <d> <r> 
+ensanguine  2 1 <n> [s] 
+excrement  3 0 <x> <c> <r> 
+championships  2 1 <m> <p> 
+extremities  3 0 <x> <t> <r> 
+passepartouts  3 2 <ss> <e> <p> 
+makeweight  3 2 <k> <e> <w> 
+purposefully  3 2 [p] 
+insular  2 1 <n> <s> 
+exploded  3 0 <x> <p> <l> 
+proconsular  2 1 [c] 
+obscurants  3 1 <b> <s> <c> 
+inglenook  3 2 <n> [g] 
+diffusely  3 2 [ff] 
+expostulates  2 0 <x> <p> 
+textures  2 1 <x> <t> 
+somehow  3 2 <m> <e> <h> 
+mildew  2 1 <l> <d> 
+iceboat  3 2 <c> <e> <b> 
+leaseholder  3 2 <s> <e> <h> 
+transcendent  3 1 <n> <s> <c> 
+nightgowns  3 2 <gh> <t> <g> 
+strangulation  2 1 <n> <g> 
+nameplate  4 2 <m> <e> <p> <l> 
+ensuing  2 1 <n> <s> 
+tranquillity  2 1 <n> <qu> 
+copestones  4 2 <p> <e> <s> <t> 
+plaintiveness  3 2 <n> [t] 
+enthuses  2 1 <n> <th> 
+amputee  2 1 <m> <p> 
+decisively  3 2 [c] 
+causeless  3 2 <s> <e> <l> 
+jonquils  2 1 <n> <qu> 
+icefloe  4 2 <c> <e> <f> <l> 
+submissively  3 2 <b> [m] 
+cuteness  3 2 <t> <e> <n> 
+muscular  2 1 <s> <c> 
+latecomers  3 2 <t> <e> <c> 
+disquiets  2 1 <s> <qu> 
+expatriate  2 1 <x> <p> 
+intuit  2 1 <n> <t> 
+graceful  3 2 <c> <e> <f> 
+pipeline  3 2 <p> <e> <l> 
+dovecot  3 2 <v> <e> <c> 
+excisemen  3 2 <x> [c] 
+expurgate  2 0 <x> <p> 
+moderately  3 2 [d] 
+needlecraft  4 2 [d] 
+plankton  3 2 <n> <k> <t> 
+incubates  2 1 <n> <c> 
+adumbrated  2 1 [d] 
+enticement  3 2 <n> [t] 
+minefields  3 2 <n> <e> <f> 
+instructively  3 2 <n> [s] [t] [r] 
+lamely  3 2 <m> <e> <l> 
+perverseness  3 2 [v] 
+cobblestone  4 2 [bb] 
+linesmen  4 3 <n> <e> <s> <m> 
+causeways  3 2 <s> <e> <w> 
+serenely  3 2 [r] 
+grandmas  3 2 <n> <d> <m> 
+whitethroat  4 2 <t> <e> <th> <r> 
+turtledove  3 2 [t] 
+hedgehoppers  3 2 <dg> <e> <h> 
+sixfold  2 1 <x> <f> 
+sideslipped  4 2 <d> <e> <s> <l> 
+rightwards  3 2 <gh> <t> <w> 
+senseless  4 3 <n> <s> <e> <l> 
+expecting  2 0 <x> <p> 
+flamethrower  4 2 <m> <e> <th> <r> 
+explode  3 0 <x> <p> <l> 
+mundanely  3 2 <n> [d] 
+expressions  3 0 <x> <p> <r> 
+ginkgo  3 1 <n> <k> <g> 
+rightness  3 2 <gh> <t> <n> 
+sidewalks  3 2 <d> <e> <w> 
+rustling  3 2 <s> <t> <l> 
+accentuate  2 1 [cc] 
+exclusiveness  3 0 <x> <c> <l> 
+exclusiveness  3 2 [x] [c] [l] 
+boxful  2 1 <x> <f> 
+obscurely  3 1 <b> <s> <c> 
+peninsulas  2 1 [n] 
+expulsions  2 0 <x> <p> 
+stokehole  3 2 <k> <e> <h> 
+gentleness  3 2 <n> [t] 
+somewhat  3 2 <m> <e> <wh> 
+praiseworthiness  3 2 <s> <e> <w> 
+consulates  2 1 <n> <s> 
+inversely  3 2 <n> [v] 
+candlelight  3 2 <n> [d] 
+contumelies  2 1 <n> <t> 
+contumelies  3 2 <n> [t] 
+namedropper  4 2 <m> <e> <d> <r> 
+transmutations  3 2 <n> <s> <m> 
+computes  2 1 <m> <p> 
+bafflement  3 2 [ff] 
+ropeways  3 2 <p> <e> <w> 
+dovetailing  3 2 <v> <e> <t> 
+distasteful  4 3 <s> [t] 
+extirpated  2 0 <x> <t> 
+enthused  2 1 <n> <th> 
+houseboy  3 2 <s> <e> <b> 
+impromptu  3 2 <m> [p] [r] 
+comedowns  3 2 <m> <e> <d> 
+commingling  2 1 [mm] 
+transcended  3 1 <n> <s> <c> 
+transmuted  3 2 <n> <s> <m> 
+postscript  5 2 <s> <t> <s> <c> <r> 
+excuse  2 0 <x> <c> 
+spiteful  3 2 <t> <e> <f> 
+falsehood  4 3 <l> <s> <e> <h> 
+singleton  3 2 <n> [g] 
+centurions  2 1 <n> <t> 
+dateline  3 2 <t> <e> <l> 
+prejudgements  3 2 [j] 
+exciseman  3 2 <x> [c] 
+winsomely  3 2 <n> [s] 
+exploiters  3 0 <x> <p> <l> 
+exporter  2 0 <x> <p> 
+sidesman  4 3 <d> <e> <s> <m> 
+announcements  4 1 [nn] 
+whitecap  3 2 <t> <e> <c> 
+sharpeners  3 2 <p> <e> <n> 
+fortnightly  3 2 <t> [n] 
+halfback  3 2 <l> <f> <b> 
+calculator  2 1 <l> <c> 
+householder  3 2 <s> <e> <h> 
+sightliest  3 2 <gh> <t> <l> 
+encapsulates  2 1 <n> [c] 
+consumed  2 1 <n> <s> 
+lucratively  3 2 [c] [r] 
+phonebooth  3 2 <n> <e> <b> 
+calculuses  2 1 <l> <c> 
+sweetening  3 2 <t> <e> <n> 
+laxness  2 1 <x> <n> 
+saxhorns  2 1 <x> <h> 
+expositions  2 0 <x> <p> 
+bridesmaid  4 3 <d> <e> <s> <m> 
+exploiter  3 0 <x> <p> <l> 
+retentively  3 2 [t] 
+tiddledywinks  3 2 [dd] 
+resoluteness  3 2 [s] 
+contextual  2 1 <n> [t] 
+snideness  3 2 <d> <e> <n> 
+earthquakes  2 1 <th> <qu> 
+transcend  3 1 <n> <s> <c> 
+campion  2 1 <m> <p> 
+excuses  2 0 <x> <c> 
+secretively  3 2 [c] [r] 
+talkativeness  3 2 [l] [k] 
+grandnephew  3 2 <n> <d> <n> 
+intuiting  2 1 <n> <t> 
+wasteful  4 3 <s> <t> <e> <f> 
+admixtures  2 1 <d> [m] 
+middlebrow  4 2 [dd] 
+forcefulness  3 2 <c> <e> <f> 
+polecat  3 2 <l> <e> <c> 
+denseness  4 3 <n> <s> <e> <n> 
+boneshakers  3 2 <n> <e> <sh> 
+expressways  3 0 <x> <p> <r> 
+vanquishes  2 1 <n> <qu> 
+transcends  3 1 <n> <s> <c> 
+subdue  2 1 <b> <d> 
+extortionate  2 0 <x> <t> 
+dukedoms  3 2 <k> <e> <d> 
+infusions  2 1 <n> <f> 
+baseboard  3 2 <s> <e> <b> 
+typewrites  3 2 <p> <e> <wr> 
+obscurity  3 1 <b> <s> <c> 
+gamely  3 2 <m> <e> <l> 
+expressiveness  5 0 <x> <p> <r> <e> <ss> 
+racehorse  3 2 <c> <e> <h> 
+stateless  3 2 <t> <e> <l> 
+housebreaker  4 2 <s> <e> <b> <r> 
+linesman  4 3 <n> <e> <s> <m> 
+confuted  2 1 <n> <f> 
+inexperienced  2 0 <n> 
+exculpation  2 1 <x> <c> 
+eightsome  3 2 <gh> <t> <s> 
+unqualified  2 1 <n> <qu> 
+princely  4 3 <n> <c> <e> <l> 
+routinely  3 2 [t] 
+vineyards  3 2 <n> <e> <y> 
+expenditure  2 0 <x> <p> 
+adumbrations  2 1 [d] 
+boxwood  2 1 <x> <w> 
+earthquake  2 1 <th> <qu> 
+pipsqueaks  3 1 <p> <s> <qu> 
+sextant  2 0 <x> <t> 
+icebreaker  4 2 <c> <e> <b> <r> 
+wisecracked  4 2 <s> <e> <c> <r> 
+feebleness  3 2 [b] 
+answering  3 1 <n> <s> <w> 
+icemen  3 2 <c> <e> <m> 
+cohesively  3 2 [h] 
+bridgeheads  3 2 <dg> <e> <h> 
+encouragements  3 2 <n> [c] 
+foxholes  2 1 <x> <h> 
+extraneously  3 0 <x> <t> <r> 
+officeholder  3 2 [ff] 
+inexpiable  2 0 <n> 
+wisecracking  4 2 <s> <e> <c> <r> 
+talebearers  3 2 <l> <e> <b> 
+homework  3 2 <m> <e> <w> 
+inquired  2 1 <n> <qu> 
+gentlewoman  3 2 <n> [t] 
+explicitly  3 0 <x> <p> <l> 
+calculates  2 1 <l> <c> 
+inquietude  2 1 <n> <qu> 
+relatively  3 2 [l] 
+exchequer  2 1 <x> <ch> 
+expletive  3 0 <x> <p> <l> 
+disablement  3 2 <s> 
+tuneless  3 2 <n> <e> <l> 
+misstatements  2 0 <ss> <t> 
+misstatements  3 2 [ss] [t] 
+nightmarish  3 2 <gh> <t> <m> 
+cheesecloth  4 2 <s> <e> <c> <l> 
+baseless  3 2 <s> <e> <l> 
+housework  3 2 <s> <e> <w> 
+loathsomeness  3 2 <th> [s] 
+extending  2 0 <x> <t> 
+forcemeat  3 2 <c> <e> <m> 
+ropewalkers  3 2 <p> <e> <w> 
+anxious  2 1 <n> <x> 
+officeholders  3 2 [ff] 
+impetuously  4 1 <m> <p> <e> <t> 
+bridecake  3 2 <d> <e> <c> 
+icepicks  3 2 <c> <e> <p> 
+consulate  2 1 <n> <s> 
+yachtswomen  4 3 <ch> <t> <s> <w> 
+facileness  3 2 [c] 
+jocosely  3 2 [c] 
+bridesmaids  4 3 <d> <e> <s> <m> 
+greaseproof  4 2 <s> <e> <p> <r> 
+interesting  2 1 <n> <t> 
+ungrateful  3 2 <n> [g] [r] 
+insulated  2 1 <n> <s> 
+accurately  3 2 [cc] 
+ripely  3 2 <p> <e> <l> 
+interestedly  2 1 <n> <t> 
+interestedly  5 4 <n> [t] 
+osculates  2 1 <s> <c> 
+mincemeat  4 3 <n> <c> <e> <m> 
+encirclement  3 2 <n> [c] 
+rifleman  3 2 [f] 
+agelessness  3 2 <g> <e> <l> 
+aboveboard  3 2 [b] 
+extirpating  2 0 <x> <t> 
+savagely  3 2 [v] 
+resembling  2 1 [s] 
+wastebasket  4 3 <s> <t> <e> <b> 
+misspelled  2 0 <ss> <p> 
+tightwads  3 2 <gh> <t> <w> 
+gatecrashers  4 2 <t> <e> <c> <r> 
+molehills  3 2 <l> <e> <h> 
+mutely  3 2 <t> <e> <l> 
+strangleholds  3 2 <n> [g] 
+expended  2 0 <x> <p> 
+excoriates  2 1 <x> <c> 
+languish  2 1 <n> <g> 
+sextet  2 0 <x> <t> 
+plenteously  2 1 <n> <t> 
+oxtail  2 1 <x> <t> 
+tempestuous  5 1 <m> <p> <e> <s> <t> 
+timepiece  3 2 <m> <e> <p> 
+brightly  3 2 <gh> <t> <l> 
+timelessness  3 2 <m> <e> <l> 
+tablespoonsful  4 2 [b] 
+travelling  3 2 <v> <e> <ll> 
+obduracy  2 1 <b> <d> 
+extant  2 0 <x> <t> 
+coleslaw  4 2 <l> <e> <s> <l> 
+eightsomes  3 2 <gh> <t> <s> 
+miscuing  2 1 <s> <c> 
+typewriters  3 2 <p> <e> <wr> 
+expires  2 0 <x> <p> 
+lightbulb  3 2 <gh> <t> <b> 
+fondue  2 1 <n> <d> 
+extramural  3 0 <x> <t> <r> 
+sulphuric  2 1 <l> <ph> 
+strikebound  3 2 <k> <e> <b> 
+defectiveness  3 2 [f] 
+consciousness  3 1 <n> <s> <c> 
+massively  3 2 [ss] 
+misspend  2 0 <ss> <p> 
+penumbra  2 1 [n] 
+pipsqueak  3 1 <p> <s> <qu> 
+expanded  2 0 <x> <p> 
+spokeswomen  4 3 <k> <e> <s> <w> 
+exterior  2 0 <x> <t> 
+densely  4 3 <n> <s> <e> <l> 
+foxhole  2 1 <x> <h> 
+wholesalers  3 2 <l> <e> <s> 
+ropeway  3 2 <p> <e> <w> 
+confinements  3 2 <n> [f] 
+inexpedience  2 0 <n> 
+rosewater  3 2 <s> <e> <w> 
+exhaustiveness  3 2 <x> [h] 
+exculpate  2 0 <x> <c> 
+plenteous  2 1 <n> <t> 
+winebibbing  3 2 <n> <e> <b> 
+gentlefolks  3 2 <n> [t] 
+sanguinity  2 1 <n> <g> 
+adversely  3 2 <d> [v] 
+literateness  3 2 [t] 
+subtly  3 2 <b> <t> <l> 
+foxhunting  2 1 <x> <h> 
+whitewash  3 2 <t> <e> <w> 
+alternately  3 2 <l> [t] 
+involvement  4 3 <n> [v] 
+conciseness  3 2 <n> [c] 
+defectively  3 2 [f] 
+travellers  3 2 <v> <e> <ll> 
+makeweights  3 2 <k> <e> <w> 
+tightfistedness  3 2 <gh> <t> <f> 
+bumblebees  3 2 <m> [b] 
+namedrops  4 2 <m> <e> <d> <r> 
+unquestioned  2 1 <n> <qu> 
+loveliness  3 2 <v> <e> <l> 
+enslavement  3 2 <n> [s] [l] 
+bravely  3 2 <v> <e> <l> 
+abasement  3 2 [b] 
+iceboats  3 2 <c> <e> <b> 
+sensualism  2 1 <n> <s> 
+intimately  3 2 <n> [t] 
+triteness  3 2 <t> <e> <n> 
+sightlier  3 2 <gh> <t> <l> 
+misquote  2 1 <s> <qu> 
+newsstand  2 0 <ss> <t> 
+skateboards  3 2 <t> <e> <b> 
+arsenic  3 2 <s> <e> <n> 
+whitethorns  3 2 <t> <e> <th> 
+mildewy  2 1 <l> <d> 
+baneful  3 2 <n> <e> <f> 
+archduke  2 1 <ch> <d> 
+explored  3 0 <x> <p> <l> 
+tradesman  4 3 <d> <e> <s> <m> 
+tasteless  4 3 <s> <t> <e> <l> 
+expectancy  2 0 <x> <p> 
+consumes  2 1 <n> <s> 
+attentively  3 2 [tt] 
+tamely  3 2 <m> <e> <l> 
+expunge  2 0 <x> <p> 
+ninetieth  3 2 <n> <e> <t> 
+debasement  3 2 [b] 
+incurable  2 1 <n> <c> 
+edgeways  3 2 <dg> <e> <w> 
+excruciates  3 0 <x> <c> <r> 
+singleness  3 2 <n> [g] 
+nosedive  3 2 <s> <e> <d> 
+gargantuan  2 1 [g] 
+bonesetters  3 2 <n> <e> <s> 
+remorseless  3 2 [m] 
+undulates  2 1 <n> <d> 
+sandwichmen  3 2 <n> <d> <w> 
+extravagant  3 0 <x> <t> <r> 
+albumen  2 1 <l> <b> 
+nineteenths  3 2 <n> <e> <t> 
+singulars  2 1 <n> <g> 
+vileness  3 2 <l> <e> <n> 
+solely  3 2 <l> <e> <l> 
+tentatively  3 2 <n> [t] 
+clotheshorses  2 1 <t> <h> 
+extinction  2 0 <x> <t> 
+mousetraps  4 2 <s> <e> <t> <r> 
+excursionist  2 0 <x> <c> 
+sixpence  2 1 <x> <p> 
+noiseless  3 2 <s> <e> <l> 
+extruded  3 0 <x> <t> <r> 
+infuse  2 1 <n> <f> 
+furtively  3 2 [t] 
+centurion  2 1 <n> <t> 
+knighthoods  4 3 <g> <h> <t> <h> 
+trademarks  3 2 <d> <e> <m> 
+peacefulness  3 2 <c> <e> <f> 
+tholepin  3 2 <l> <e> <p> 
+houseproud  4 2 <s> <e> <p> <r> 
+extricated  3 0 <x> <t> <r> 
+comelier  3 2 <m> <e> <l> 
+grandchild  3 2 <n> <d> <ch> 
+emasculate  2 1 [m] 
+spaceships  3 2 <c> <e> <sh> 
+marlinespikes  4 2 [l] 
+doodlebug  3 2 [d] 
+repressively  3 2 [p] [r] 
+gateways  3 2 <t> <e> <w> 
+grandma  3 2 <n> <d> <m> 
+enduing  2 1 <n> <d> 
+undulations  2 1 <n> <d> 
+titleholder  3 2 [t] 
+ridgepole  3 2 <dg> <e> <p> 
+primitiveness  3 2 [m] 
+likelier  3 2 <k> <e> <l> 
+safeguard  3 2 <f> <e> <g> 
+emplacement  3 2 <m> [p] [l] 
+insanely  3 2 <n> [s] 
+noctambulists  2 1 <c> [t] 
+nightlife  3 2 <gh> <t> <l> 
+hosepipe  3 2 <s> <e> <p> 
+sulphuret  2 1 <l> <ph> 
+juxtaposing  2 0 <x> <t> 
+propinquity  2 1 [p] 
+frameworks  3 2 <m> <e> <w> 
+computer  2 1 <m> <p> 
+computed  2 1 <m> <p> 
+inducement  2 1 <n> <d> 
+inducement  3 2 <n> [d] 
+extroverts  3 0 <x> <t> <r> 
+tablespoon  4 2 [b] 
+pronouncements  4 3 [n] 
+safekeeping  3 2 <f> <e> <k> 
+sightscreens  5 2 <gh> <t> <s> <c> <r> 
+strikebreaker  4 2 <k> <e> <b> <r> 
+banefully  3 2 <n> <e> <f> 
+sometime  3 2 <m> <e> <t> 
+pensiveness  3 2 <n> [s] 
+salesladies  4 3 <l> <e> <s> <l> 
+battleship  3 2 [tt] 
+relinquish  2 1 [l] 
+confute  2 1 <n> <f> 
+rattlesnakes  4 2 [tt] 
+ninepenny  3 2 <n> <e> <p> 
+shapeless  3 2 <p> <e> <l> 
+sparsely  3 2 <s> <e> <l> 
+mismanagement  3 2 <s> [m] 
+baseball  3 2 <s> <e> <b> 
+strangulated  2 1 <n> <g> 
+osculated  2 1 <s> <c> 
+kittenishly  2 0 <tt> <e> [n] 
+repulsiveness  3 2 [p] 
+littleness  3 2 [tt] 
+executioners  3 0 <x> <e> <c> 
+minelayers  3 2 <n> <e> <l> 
+namedropping  4 2 <m> <e> <d> <r> 
+wastefully  4 3 <s> <t> <e> <f> 
+assertiveness  3 2 [ss] 
+expedition  2 0 <x> <p> 
+widespread  5 2 <d> <e> <s> <p> <r> 
+expectancies  2 0 <x> <p> 
+graceless  3 2 <c> <e> <l> 
+nameless  3 2 <m> <e> <l> 
+burdensomeness  3 2 [d] 
+ambulances  2 1 <m> <b> 
+limelight  3 2 <m> <e> <l> 
+purposeful  3 2 [p] 
+lightly  3 2 <gh> <t> <l> 
+assembling  2 1 [ss] 
+concupiscence  2 1 <n> <c> 
+brusqueness  4 1 <s> <qu> <e> <n> 
+attentiveness  3 2 [tt] 
+jonquil  2 1 <n> <qu> 
+lithely  3 2 <th> <e> <l> 
+appropriateness  3 2 [pp] [r] 
+nosebags  3 2 <s> <e> <b> 
+exclusion  3 0 <x> <c> <l> 
+fastening  4 3 <s> <t> <e> <n> 
+excavate  2 0 <x> <c> 
+resourcefully  3 2 [s] 
+pendulums  2 1 <n> <d> 
+sensualists  2 1 <n> <s> 
+loathsomely  3 2 <th> [s] 
+productiveness  3 2 [d] 
+delicately  3 2 [l] 
+wrestler  3 2 <s> <t> <l> 
+tubeless  3 2 <b> <e> <l> 
+likely  3 2 <k> <e> <l> 
+lodestone  4 2 <d> <e> <s> <t> 
+extremes  3 0 <x> <t> <r> 
+contumacy  2 1 <n> <t> 
+excretion  3 0 <x> <c> <r> 
+moleskin  4 2 <l> <e> <s> <k> 
+weightless  3 2 <gh> <t> <l> 
+concupiscent  2 1 <n> <c> 
+landscaped  4 2 <n> <d> <s> <c> 
+obdurately  2 1 <b> <d> 
+obdurately  3 2 <b> [d] 
+expect  2 0 <x> <p> 
+expeditious  2 0 <x> <p> 
+expunged  2 0 <x> <p> 
+impromptus  3 2 <m> [p] [r] 
+excreting  3 0 <x> <c> <r> 
+expediency  2 0 <x> <p> 
+shortening  3 2 <t> <e> <n> 
+obscures  3 1 <b> <s> <c> 
+baseboards  3 2 <s> <e> <b> 
+tradesfolk  4 3 <d> <e> <s> <f> 
+delinquency  2 1 [l] 
+rightful  3 2 <gh> <t> <f> 
+globefish  3 2 <b> <e> <f> 
+rhinestone  4 2 <n> <e> <s> <t> 
+insulin  2 1 <n> <s> 
+icebreakers  4 2 <c> <e> <b> <r> 
+stranglehold  3 2 <n> [g] 
+extricate  3 0 <x> <t> <r> 
+horseman  3 2 <s> <e> <m> 
+sandwiching  3 2 <n> <d> <w> 
+sleeveless  3 2 <v> <e> <l> 
+sidewards  3 2 <d> <e> <w> 
+disinterested  2 1 <s> 
+sprightliness  3 2 <gh> <t> <l> 
+tightrope  3 2 <gh> <t> <r> 
+coarseness  3 2 <s> <e> <n> 
+induce  2 1 <n> <d> 
+gravestone  4 2 <v> <e> <s> <t> 
+profusely  3 2 [f] 
+horseracing  3 2 <s> <e> <r> 
+concretely  3 2 <n> [c] [r] 
+thenceforth  4 3 <n> <c> <e> <f> 
+encapsulate  2 1 <n> [c] 
+brusquely  4 1 <s> <qu> <e> <l> 
+sublimeness  3 2 [b] [l] 
+stoneware  3 2 <n> <e> <w> 
+vegetable  3 2 <g> <e> <t> 
+excavated  2 0 <x> <c> 
+noiselessly  3 2 <s> <e> <l> 
+misquotes  2 1 <s> <qu> 
+acuteness  3 2 [c] 
+discretely  3 2 [s] [c] [r] 
+stonemasons  3 2 <n> <e> <m> 
+adulthood  2 1 [d] 
+impurity  2 1 <m> <p> 
+exposure  2 0 <x> <p> 
+embezzlement  4 1 <m> <b> <e> <zz> 
+endorsement  3 2 <n> [d] 
+stalemate  3 2 <l> <e> <m> 
+voteless  3 2 <t> <e> <l> 
+guilefully  3 2 <l> <e> <f> 
+icefield  3 2 <c> <e> <f> 
+breezeblock  4 2 <z> <e> <b> <l> 
+grapevines  3 2 <p> <e> <v> 
+chastely  4 3 <s> <t> <e> <l> 
+grandnieces  3 2 <n> <d> <n> 
+exploring  3 0 <x> <p> <l> 
+impudently  2 1 <m> <p> 
+largely  3 2 <g> <e> <l> 
+expands  2 0 <x> <p> 
+actuarial  2 1 <c> <t> 
+osculate  2 1 <s> <c> 
+leaseholders  3 2 <s> <e> <h> 
+shuttlecock  3 2 [tt] 
+consuming  2 1 <n> <s> 
+expounded  2 0 <x> <p> 
+disfranchisement  3 2 <s> [f] [r] 
+enlargements  3 2 <n> [l] 
+improvements  3 2 <m> [p] [r] 
+reposeful  3 2 [p] 
+houseman  3 2 <s> <e> <m> 
+halftone  3 2 <l> <f> <t> 
+bottlefuls  3 2 [tt] 
+expiry  2 0 <x> <p> 
+unconscious  3 1 <n> [c] 
+consular  2 1 <n> <s> 
+waistcoats  3 2 <s> <t> <c> 
+announcement  4 1 [nn] 
+obtusely  2 1 <b> <t> 
+obtusely  3 2 <b> [t] 
+servicemen  3 2 [v] 
+verbosely  3 2 [b] 
+expand  2 0 <x> <p> 
+actively  3 2 <c> [t] 
+moroseness  3 2 [r] 
+transcendental  3 1 <n> <s> <c> 
+centreboards  3 1 <n> <t> <r> 
+landlady  3 2 <n> <d> <l> 
+deceptively  3 2 [c] 
+whitening  3 2 <t> <e> <n> 
+adumbrate  2 1 [d] 
+expiates  2 0 <x> <p> 
+sledgehammer  3 2 <dg> <e> <h> 
+obscenity  3 1 <b> <s> <c> 
+finitely  3 2 [n] 
+nightfall  3 2 <gh> <t> <f> 
+abatement  3 2 [b] 
+gamesmanship  4 3 <m> <e> <s> <m> 
+nosedives  3 2 <s> <e> <d> 
+winebibbers  3 2 <n> <e> <b> 
+someday  3 2 <m> <e> <d> 
+masculine  2 1 <s> <c> 
+aggrandizement  3 2 [gg] [r] 
+exhaled  2 1 <x> <h> 
+expulsion  2 0 <x> <p> 
+unguents  2 1 <n> <g> 
+expensively  2 0 <x> <p> 
+expensively  3 2 [x] [p] 
+tunefulness  3 2 <n> <e> <f> 
+consciously  3 1 <n> <s> <c> 
+expressed  3 0 <x> <p> <r> 
+morosely  3 2 [r] 
+debasements  3 2 [b] 
+sixtieth  2 1 <x> <t> 
+saleswomen  4 3 <l> <e> <s> <w> 
+inventively  3 2 <n> [v] 
+sticklebacks  3 2 [ck] 
+businessmen  4 3 [s] 
+thistledown  3 2 [s] [t] 
+inquisition  2 1 <n> <qu> 
+straightaway  2 0 <gh> <t> 
+gamesman  4 3 <m> <e> <s> <m> 
+vicereines  3 2 <c> <e> <r> 
+ennoblement  3 2 [nn] 
+safeness  3 2 <f> <e> <n> 
+casements  3 2 <s> <e> <m> 
+typewriter  3 2 <p> <e> <wr> 
+pacemaker  3 2 <c> <e> <m> 
+foxtrots  3 1 <x> <t> <r> 
+sixteen  2 1 <x> <t> 
+gatecrasher  4 2 <t> <e> <c> <r> 
+contextually  2 0 <n> [t] 
+ungratefully  3 2 <n> [g] [r] 
+transcendently  3 1 <n> <s> <c> 
+ageless  3 2 <g> <e> <l> 
+shamefully  3 2 <m> <e> <f> 
+talebearer  3 2 <l> <e> <b> 
+refinement  3 2 [f] 
+horsefly  4 2 <s> <e> <f> <l> 
+inexpert  2 0 <n> 
+pinecones  3 2 <n> <e> <c> 
+extortioner  2 0 <x> <t> 
+calculators  2 1 <l> <c> 
+foxtrotted  3 1 <x> <t> <r> 
+detachedly  4 3 [t] 
+tablespoonfuls  4 2 [b] 
+tableware  3 2 [b] 
+rustlers  3 2 <s> <t> <l> 
+bonesetter  3 2 <n> <e> <s> 
+whitecaps  3 2 <t> <e> <c> 
+languidly  2 1 <n> <g> 
+express  3 0 <x> <p> <r> 
+houseroom  3 2 <s> <e> <r> 
+contritely  3 2 <n> [t] [r] 
+dovecots  3 2 <v> <e> <c> 
+desperately  3 2 [s] [p] 
+championship  2 1 <m> <p> 
+extortioners  2 0 <x> <t> 
+stonework  3 2 <n> <e> <w> 
+handkerchief  3 2 <n> <d> <k> 
+doubtful  3 2 <b> <t> <f> 
+dexterously  2 0 <x> <t> 
+timekeeper  3 2 <m> <e> <k> 
+grandparents  3 2 <n> <d> <p> 
+sightsees  3 2 <gh> <t> <s> 
+lifebelt  3 2 <f> <e> <b> 
+defencelessly  4 3 [f] 
+businessman  4 3 [s] 
+explorers  3 0 <x> <p> <l> 
+sixty  2 1 <x> <t> 
+sixteenths  2 1 <x> <t> 
+transfuse  3 2 <n> <s> <f> 
+induced  2 1 <n> <d> 
+transcending  3 1 <n> <s> <c> 
+explicates  3 0 <x> <p> <l> 
+placeman  3 2 <c> <e> <m> 
+sidesteps  4 2 <d> <e> <s> <t> 
+slightness  3 2 <gh> <t> <n> 
+tablecloths  4 2 [b] 
+crudely  3 2 <d> <e> <l> 
+remoteness  3 2 [m] 
+tablespoons  4 2 [b] 
+excrescences  3 0 <x> <c> <r> 
+coxcombs  2 1 <x> <c> 
+scrivener  3 2 <v> <e> <n> 
+typescript  5 2 <p> <e> <s> <c> <r> 
+extremities  3 1 <x> <t> <r> 
+housecoat  3 2 <s> <e> <c> 
+enhancement  4 3 <n> [h] 
+extensions  2 0 <x> <t> 
+ninety  3 2 <n> <e> <t> 
+excrete  3 0 <x> <c> <r> 
+rightfulness  3 2 <gh> <t> <f> 
+extricable  3 0 <x> <t> <r> 
+dissembler  2 1 [ss] 
+perversely  3 2 [v] 
+formatively  3 2 [m] 
+interested  2 1 <n> <t> 
+homecoming  3 2 <m> <e> <c> 
+exchanged  2 1 <x> <ch> 
+sideboard  3 2 <d> <e> <b> 
+needlewoman  3 2 [d] 
+extraditions  3 0 <x> <t> <r> 
+vindictively  3 2 <n> [d] 
+comebacks  3 2 <m> <e> <b> 
+remorselessness  3 2 [m] 
+protrusiveness  3 2 [t] [r] 
+extols  2 0 <x> <t> 
+externals  2 0 <x> <t> 
+expiration  2 0 <x> <p> 
+wineskin  4 2 <n> <e> <s> <k> 
+spokeswoman  4 3 <k> <e> <s> <w> 
+horsewhipped  3 2 <s> <e> <wh> 
+extremist  3 0 <x> <t> <r> 
+misplacement  3 2 <s> [p] [l] 
+yachtsman  4 3 <ch> <t> <s> <m> 
+minxes  2 0 <n> <x> 
+dissembling  2 1 [ss] 
+excuse  2 0 <x> <c> 
+computation  2 1 <m> <p> 
+indictment  3 2 <n> [d] 
+tribesmen  4 3 <b> <e> <s> <m> 
+amputations  2 1 <m> <p> 
+expeditions  2 0 <x> <p> 
+expediting  2 0 <x> <p> 
+expounding  2 0 <x> <p> 
+folklore  3 2 <l> <k> <l> 
+sidestepped  4 2 <d> <e> <s> <t> 
+avuncular  2 1 [v] 
+faceless  3 2 <c> <e> <l> 
+incitement  3 2 <n> [c] 
+tranquillizes  2 1 <n> <qu> 
+lately  3 2 <t> <e> <l> 
+expediently  2 0 <x> <p> 
+spacesuits  3 2 <c> <e> <s> 
+bargeman  3 2 <g> <e> <m> 
+policewoman  3 2 [l] 
+ornateness  3 2 [n] 
+racecourse  3 2 <c> <e> <c> 
+expense  2 0 <x> <p> 
+elsewhere  4 3 <l> <s> <e> <wh> 
+persuasiveness  3 2 [s] 
+banqueting  2 1 <n> <qu> 
+ninetieths  3 2 <n> <e> <t> 
+immediately  3 2 [mm] 
+statecraft  4 2 <t> <e> <c> <r> 
+eightpences  3 2 <gh> <t> <p> 
+cinquefoil  4 1 <n> <qu> <e> <f> 
+misstated  2 0 <ss> <t> 
+restatements  3 2 [s] [t] 
+excavates  2 0 <x> <c> 
+lifeguard  3 2 <f> <e> <g> 
+lifelong  3 2 <f> <e> <l> 
+extolled  2 0 <x> <t> 
+choicely  3 2 <c> <e> <l> 
+convolvulus  2 1 <n> [v] 
+interestingly  2 1 <n> <t> 
+objectively  3 2 <b> [j] 
+tonelessly  3 2 <n> <e> <l> 
+grotesquely  4 1 [t] 
+expandable  2 0 <x> <p> 
+expanse  2 0 <x> <p> 
+timeserver  3 2 <m> <e> <s> 
+sanguine  2 1 <n> <g> 
+middleman  3 2 [dd] 
+calmly  3 2 <l> <m> <l> 
+assembly  2 1 [ss] 
+extras  3 0 <x> <t> <r> 
+expending  2 0 <x> <p> 
+singularize  2 1 <n> <g> 
+housetops  3 2 <s> <e> <t> 
+sightsaw  3 2 <gh> <t> <s> 
+exclaimed  3 0 <x> <c> <l> 
+passionately  3 2 [ss] 
+malnutrition  2 1 <l> <n> 
+impulsiveness  3 2 <m> [p] 
+singular  2 1 <n> <g> 
+shapely  3 2 <p> <e> <l> 
+excludes  3 0 <x> <c> <l> 
+timelier  3 2 <m> <e> <l> 
+distastefulness  4 3 <s> [t] 
+adumbrates  2 1 [d] 
+minefield  3 2 <n> <e> <f> 
+enfranchisement  3 2 <n> [f] [r] 
+extinct  2 0 <x> <t> 
+compute  2 1 <m> <p> 
+anguished  2 1 <n> <g> 
+endued  2 1 <n> <d> 
+simpleton  3 2 <m> [p] 
+sideburns  3 2 <d> <e> <b> 
+constructiveness  3 2 <n> [s] [t] [r] 
+sidecars  3 2 <d> <e> <c> 
+expurgates  2 0 <x> <p> 
+lodestars  4 2 <d> <e> <s> <t> 
+assemblies  2 1 [ss] 
+wakefulness  3 2 <k> <e> <f> 
+resourcefulness  3 2 [s] 
+evasiveness  3 2 [v] 
+uselessness  3 2 <s> <e> <l> 
+icefloes  4 2 <c> <e> <f> <l> 
+experiment  2 0 <x> <p> 
+expose  2 0 <x> <p> 
+preparedness  3 2 [p] 
+divinely  3 2 [v] 
+positiveness  3 2 [s] 
+sexton  2 0 <x> <t> 
+ensue  2 1 <n> <s> 
+smokestacks  4 2 <k> <e> <s> <t> 
+houseboat  3 2 <s> <e> <b> 
+horsewhip  3 2 <s> <e> <wh> 
+housewife  3 2 <s> <e> <w> 
+expectorant  2 0 <x> <p> 
+senselessness  4 3 <n> <s> <e> <l> 
+osculating  2 1 <s> <c> 
+livelong  3 2 <v> <e> <l> 
+nightjars  3 2 <gh> <t> <j> 
+excreta  3 0 <x> <c> <r> 
+gymkhana  3 1 <m> <k> <h> 
+inquire  2 1 <n> <qu> 
+handsome  3 2 <n> <d> <s> 
+banquet  2 1 <n> <qu> 
+tastelessly  4 3 <s> <t> <e> <l> 
+thoughtfully  3 2 <gh> <t> <f> 
+stonewallers  3 2 <n> <e> <w> 
+expired  2 0 <x> <p> 
+salesgirl  4 3 <l> <e> <s> <g> 
+oppressively  3 2 [pp] [r] 
+middleweights  3 2 [dd] 
+icebox  3 2 <c> <e> <b> 
+confuting  2 1 <n> <f> 
+advertisement  3 2 <d> [v] 
+hedgehopper  3 2 <dg> <e> <h> 
+horsemanship  3 2 <s> <e> <m> 
+milestone  4 2 <l> <e> <s> <t> 
+sixteenth  2 1 <x> <t> 
+experiencing  2 0 <x> <p> 
+nineteens  3 2 <n> <e> <t> 
+enforcement  3 2 <n> [f] 
+nameplates  4 2 <m> <e> <p> <l> 
+insulator  2 1 <n> <s> 
+lifeboats  3 2 <f> <e> <b> 
+princedoms  4 3 <n> <c> <e> <d> 
+sightseen  3 2 <gh> <t> <s> 
+juxtaposes  2 0 <x> <t> 
+sixtieths  2 1 <x> <t> 
+icepick  3 2 <c> <e> <p> 
+postulates  2 1 <s> <t> 
+opening  3 2 <p> <e> <n> 
+responsively  3 2 [s] [p] 
+gruesomeness  3 2 [s] 
+reconditeness  3 2 [c] 
+strangulating  2 1 <n> <g> 
+inexpensive  2 0 <n> 
+knightly  3 2 <gh> <t> <l> 
+lifebelts  3 2 <f> <e> <b> 
+contuse  2 1 <n> <t> 
+noserings  3 2 <s> <e> <r> 
+globetrotters  4 2 <b> <e> <t> <r> 
+grandnephews  3 2 <n> <d> <n> 
+tradesmen  4 3 <d> <e> <s> <m> 
+tameness  3 2 <m> <e> <n> 
+doubtless  3 2 <b> <t> <l> 
+nightdress  4 2 <gh> <t> <d> <r> 
+shuttlecocks  3 2 [tt] 
+placement  3 2 <c> <e> <m> 
+lighthouses  4 3 <g> <h> <t> <h> 
+nightmarishly  3 2 <gh> <t> <m> 
+explicate  3 0 <x> <p> <l> 
+exclude  3 0 <x> <c> <l> 
+households  3 2 <s> <e> <h> 
+conversely  3 2 <n> [v] 
+undue  2 1 <n> <d> 
+caseworker  3 2 <s> <e> <w> 
+sidelines  3 2 <d> <e> <l> 
+indifferently  4 3 <n> [d] 
+sandwiches  3 2 <n> <d> <w> 
+expel  2 0 <x> <p> 
+extract  3 0 <x> <t> <r> 
+impudent  2 1 <m> <p> 
+untimely  3 2 <n> [t] 
+amputates  2 1 <m> <p> 
+extrovert  3 0 <x> <t> <r> 
+chalkpit  3 2 <l> <k> <p> 
+businesslike  4 3 [s] 
+sextets  2 0 <x> <t> 
+ripeness  3 2 <p> <e> <n> 
+saleslady  4 3 <l> <e> <s> <l> 
+explicit  3 0 <x> <p> <l> 
+prescriptively  3 2 [s] [c] [r] 
+instinctively  3 2 <n> [s] [t] 
+sharpener  3 2 <p> <e> <n> 
+notebooks  3 2 <t> <e> <b> 
+headdress  2 0 <dd> <r> 
+rudeness  3 2 <d> <e> <n> 
+external  2 0 <x> <t> 
+intuitive  2 1 <n> <t> 
+landlords  3 2 <n> <d> <l> 
+peninsula  2 1 [n] 
+discursiveness  3 2 <s> [c] 
+bottlesful  4 3 [tt] 
+exhaling  2 1 <x> <h> 
+exhuming  2 1 <x> <h> 
+muteness  3 2 <t> <e> <n> 
+timeservers  3 2 <m> <e> <s> 
+tightwad  3 2 <gh> <t> <w> 
+pipedream  4 2 <p> <e> <d> <r> 
+lifetimes  3 2 <f> <e> <t> 
+casebooks  3 2 <s> <e> <b> 
+sextettes  2 1 <x> <t> 
+hidebound  3 2 <d> <e> <b> 
+politburo  2 1 [l] 
+gatecrashing  4 2 <t> <e> <c> <r> 
+answer  3 1 <n> <s> <w> 
+undistinguished  2 1 <n> [d] 
+misspelt  2 0 <ss> <p> 
+intuition  2 1 <n> <t> 
+timekeepers  3 2 <m> <e> <k> 
+bracelet  3 2 <c> <e> <l> 
+sidelong  3 2 <d> <e> <l> 
+eavesdropped  5 3 <v> <e> <s> <d> <r> 
+undulating  2 1 <n> <d> 
+postulating  2 1 <s> <t> 
+niceness  3 2 <c> <e> <n> 
+exploration  3 0 <x> <p> <l> 
+flamethrowers  4 2 <m> <e> <th> <r> 
+prejudgement  3 2 [j] 
+thenceforward  4 3 <n> <c> <e> <f> 
+compulsiveness  3 2 <m> [p] 
+landladies  3 2 <n> <d> <l> 
+lifeline  3 2 <f> <e> <l> 
+troublemakers  3 2 [b] 
+sprightly  3 2 <gh> <t> <l> 
+homegrown  4 2 <m> <e> <g> <r> 
+rattletrap  4 2 [tt] 
+windmill  3 2 <n> <d> <m> 
+phonecalls  3 2 <n> <e> <c> 
+subsuming  2 1 <b> <s> 
+wrestlers  3 2 <s> <t> <l> 
+fixtures  2 1 <x> <t> 
+impetuous  4 1 <m> <p> <e> <t> 
+postulated  2 1 <s> <t> 
+prizefighter  3 2 <z> <e> <f> 
+jukebox  3 2 <k> <e> <b> 
+nightdresses  4 2 <gh> <t> <d> <r> 
+fierceness  3 2 <c> <e> <n> 
+concubines  2 1 <n> <c> 
+dolefully  3 2 <l> <e> <f> 
+sixthly  3 2 <x> <th> <l> 
+sulphureous  2 1 <l> <ph> 
+gatecrashed  4 2 <t> <e> <c> <r> 
+blithely  3 2 <th> <e> <l> 
+completely  3 2 <m> [p] [l] 
+lovelorn  3 2 <v> <e> <l> 
+livelier  3 2 <v> <e> <l> 
+expectorants  2 0 <x> <p> 
+intellectual  2 1 <n> [t] 
+chiseller  3 2 <s> <e> <ll> 
+mensurations  2 1 <n> <s> 
+somewhere  3 2 <m> <e> <wh> 
+precisely  3 2 [c] 
+salesclerk  5 3 <l> <e> <s> <c> <l> 
+newsstands  2 0 <ss> <t> 
+computerize  2 1 <m> <p> 
+computing  2 1 <m> <p> 
+gratefulness  3 2 <t> <e> <f> 
+possessively  3 2 [ss] 
+uniqueness  3 2 [n] 
+wholesaler  3 2 <l> <e> <s> 
+typecasts  3 2 <p> <e> <c> 
+housecraft  4 2 <s> <e> <c> <r> 
+lukewarmly  3 2 <k> <e> <w> 
+sidecar  3 2 <d> <e> <c> 
+concubine  2 1 <n> <c> 
+engagement  3 2 <n> [g] 
+subconsciousness  3 1 <b> [c] 
+icefree  4 2 <c> <e> <f> <r> 
+intumesce  2 1 <n> <t> 
+divisiveness  3 2 [v] 
+whortleberry  3 2 [t] 
+subsumes  2 1 <b> <s> 
+jejuneness  3 2 [j] 
+answerably  3 1 <n> <s> <w> 
+boneheads  3 2 <n> <e> <h> 
+stonewaller  3 2 <n> <e> <w> 
+bridegrooms  4 2 <d> <e> <g> <r> 
+kohlrabi  3 2 <h> <l> <r> 
+yachtsmen  4 3 <ch> <t> <s> <m> 
+steeplejack  3 2 [p] 
+stonecutter  3 2 <n> <e> <c> 
+stovepipe  3 2 <v> <e> <p> 
+calculi  2 1 <l> <c> 
+extensively  2 0 <x> <t> 
+extensively  3 2 [x] [t] 
+princelier  4 3 <n> <c> <e> <l> 
+minesweepers  4 2 <n> <e> <s> <w> 
+sprightlier  3 2 <gh> <t> <l> 
+corporately  3 2 [p] 
+grapevine  3 2 <p> <e> <v> 
+horsemen  3 2 <s> <e> <m> 
+viceroys  3 2 <c> <e> <r> 
+pikestaff  4 2 <k> <e> <s> <t> 
+improvement  3 2 <m> [p] [r] 
+grapefruits  4 2 <p> <e> <f> <r> 
+peacemakers  3 2 <c> <e> <m> 
+purposelessness  3 2 [p] 
+sidestrokes  5 2 <d> <e> <s> <t> <r> 
+homesickness  3 2 <m> <e> <s> 
+horsewhips  3 2 <s> <e> <wh> 
+linguists  2 1 <n> <g> 
+reconcilement  3 2 [c] 
+foxhunted  2 1 <x> <h> 
+extortionist  2 0 <x> <t> 
+elusiveness  3 2 [l] 
+obscured  3 1 <b> <s> <c> 
+fateful  3 2 <t> <e> <f> 
+nightshade  3 2 <gh> <t> <sh> 
+dateless  3 2 <t> <e> <l> 
+spitefulness  3 2 <t> <e> <f> 
+abstruseness  3 2 <b> [s] [t] [r] 
+dexterity  2 0 <x> <t> 
+excessively  3 2 <x> [c] 
+obscenely  3 1 <b> <s> <c> 
+obscenely  3 2 <b> [s] [c] 
+styleless  3 2 <l> <e> <l> 
+typecasting  3 2 <p> <e> <c> 
+forceful  3 2 <c> <e> <f> 
+impassiveness  3 2 <m> [p] 
+intumescence  2 1 <n> <t> 
+larynxes  2 0 [r] 
+sidetracks  4 2 <d> <e> <t> <r> 
+gamesmen  4 3 <m> <e> <s> <m> 
+safeguards  3 2 <f> <e> <g> 
+statelessness  3 2 <t> <e> <l> 
+incubating  2 1 <n> <c> 
+waxwork  2 1 <x> <w> 
+defencelessness  4 3 [f] 
+nightjar  3 2 <gh> <t> <j> 
+salesmen  4 3 <l> <e> <s> <m> 
+horseshoe  3 2 <s> <e> <sh> 
+sideshows  3 2 <d> <e> <sh> 
+protectively  3 2 [t] 
+kettledrums  4 2 [tt] 
+exporting  2 0 <x> <p> 
+disingenuous  4 1 <s> 
+exquisiteness  2 0 <x> <qu> 
+exquisiteness  3 2 [x] [qu] 
+backswords  3 1 <ck> <s> <w> 
+lightsome  3 2 <gh> <t> <s> 
+phonebooths  3 2 <n> <e> <b> 
+singlesticks  4 2 <n> [g] 
+resolutely  3 2 [s] 
+expressly  3 0 <x> <p> <r> 
+idleness  3 2 [d] 
+brightness  3 2 <gh> <t> <n> 
+exclusive  3 0 <x> <c> <l> 
+horseshoes  3 2 <s> <e> <sh> 
+grotesqueness  4 1 [t] 
+usefully  3 2 <s> <e> <f> 
+pipefuls  3 2 <p> <e> <f> 
+excitements  3 2 <x> [c] 
+explosion  3 0 <x> <p> <l> 
+texture  2 1 <x> <t> 
+statesmanship  4 3 <t> <e> <s> <m> 
+understatements  3 2 <n> [d] 
+gruesomely  3 2 [s] 
+excitement  3 2 <x> [c] 
+pervasively  3 2 [v] 
+stipendiaries  2 1 [p] 
+asthmatic  3 2 <s> <th> <m> 
+stokeholes  3 2 <k> <e> <h> 
+ensanguined  2 1 <n> [s] 
+impecuniously  4 1 <m> <p> <e> <c> 
+incurables  2 1 <n> <c> 
+falsely  4 3 <l> <s> <e> <l> 
+lightsomeness  3 2 <gh> <t> <s> 
+lightsomeness  3 2 <gh> <t> [s] 
+prizefighters  3 2 <z> <e> <f> 
+mildewing  2 1 <l> <d> 
+sprightliest  3 2 <gh> <t> <l> 
+exquisitely  2 0 <x> <qu> 
+exquisitely  3 2 [x] [qu] 
+extend  2 0 <x> <t> 
+primitively  3 2 [m] 
+sumptuary  3 2 <m> <p> <t> 
+safecracker  4 2 <f> <e> <c> <r> 
+exceptionable  2 1 <x> [c] 
+incubator  2 1 <n> <c> 
+candlestick  4 2 <n> [d] 
+saucepans  3 2 <c> <e> <p> 
+expressionless  3 0 <x> <p> <r> 
+fixture  2 1 <x> <t> 
+campions  2 1 <m> <p> 
+liveliness  3 2 <v> <e> <l> 
+infusing  2 1 <n> <f> 
+intuitions  2 1 <n> <t> 
+endures  2 1 <n> <d> 
+sixteens  2 1 <x> <t> 
+extensiveness  5 0 <x> <t> <e> <n> <s> 
+picturesquely  4 1 <c> [t] 
+animalcules  2 1 [n] 
+tapeworm  3 2 <p> <e> <w> 
+convexly  2 1 <n> [v] 
+wisecracks  4 2 <s> <e> <c> <r> 
+halfbacks  3 2 <l> <f> <b> 
+platelayer  3 2 <t> <e> <l> 
+subjectively  3 2 <b> [j] 
+nightcaps  3 2 <gh> <t> <c> 
+handsomest  3 2 <n> <d> <s> 
+graveyards  3 2 <v> <e> <y> 
+lovesick  3 2 <v> <e> <s> 
+statements  3 2 <t> <e> <m> 
+impolitely  3 2 <m> [p] 
+icebound  3 2 <c> <e> <b> 
+answered  3 1 <n> <s> <w> 
+extinguish  2 0 <x> <t> 
+extinguish  2 1 [x] [t] 
+absoluteness  3 2 <b> [s] 
+fatefully  3 2 <t> <e> <f> 
+definitely  3 2 [f] 
+guilelessly  3 2 <l> <e> <l> 
+sublimely  3 2 [b] [l] 
+chequebooks  3 2 <qu> <e> <b> 
+straightness  3 2 <gh> <t> <n> 
+extrude  3 0 <x> <t> <r> 
+inexpiably  4 3 <n> <e> <x> <p> 
+tactual  2 1 <c> <t> 
+explaining  3 0 <x> <p> <l> 
+effusively  3 2 [ff] 
+extrinsic  3 0 <x> <t> <r> 
+sixguns  2 1 <x> <g> 
+horsewoman  3 2 <s> <e> <w> 
+unlikely  3 2 <n> [l] 
+calculations  2 1 <l> <c> 
+vantagepoints  3 2 <n> [t] 
+incompleteness  5 1 <n> [c] 
+chequebook  3 2 <qu> <e> <b> 
+privately  3 2 [v] 
+misspelling  2 0 <ss> <p> 
+languages  2 1 <n> <g> 
+breezeblocks  4 2 <z> <e> <b> <l> 
+eavesdropper  5 3 <v> <e> <s> <d> <r> 
+confusion  2 1 <n> <f> 
+miscalculates  2 1 <s> [c] 
+platefuls  3 2 <t> <e> <f> 
+ropedancer  3 2 <p> <e> <d> 
+amputating  2 1 <m> <p> 
+expensive  2 0 <x> <p> 
+roseleaves  3 2 <s> <e> <l> 
+impulsively  3 2 <m> [p] 
+exclaims  3 0 <x> <c> <l> 
+tastelessness  4 3 <s> <t> <e> <l> 
+sideshow  3 2 <d> <e> <sh> 
+something  3 2 <m> <e> <th> 
+purposeless  3 2 [p] 
+battleships  3 2 [tt] 
+foxhunters  2 1 <x> <h> 
+counselling  4 1 <n> <s> <e> <ll> 
+amputated  2 1 <m> <p> 
+sluiceways  3 2 <c> <e> <w> 
+lamppost  2 1 <m> <pp> 
+adequately  3 2 [d] 
+expunges  2 0 <x> <p> 
+intuits  2 1 <n> <t> 
+nineties  3 2 <n> <e> <t> 
+unquestioning  2 1 <n> <qu> 
+sandwichman  3 2 <n> <d> <w> 
+twelvemonths  4 3 <l> <v> <e> <m> 
+stakeholder  3 2 <k> <e> <h> 
+movements  3 2 <v> <e> <m> 
+exculpated  2 0 <x> <c> 
+champions  2 1 <m> <p> 
+untimeliness  3 2 <n> [t] 
+steeplejacks  3 2 [p] 
+tidewater  3 2 <d> <e> <w> 
+pinewood  3 2 <n> <e> <w> 
+raspberry  3 2 <s> <p> <b> 
+gardener  3 2 <d> <e> <n> 
+whitewashed  3 2 <t> <e> <w> 
+horsewhipping  3 2 <s> <e> <wh> 
+largeness  3 2 <g> <e> <n> 
+mousetrap  4 2 <s> <e> <t> <r> 
+transfusing  3 2 <n> <s> <f> 
+folklorist  3 2 <l> <k> <l> 
+inhuman  2 1 <n> <h> 
+tideway  3 2 <d> <e> <w> 
+henceforward  4 3 <n> <c> <e> <f> 
+usefulness  3 2 <s> <e> <f> 
+appositely  3 2 [pp] 
+banqueted  2 1 <n> <qu> 
+spruceness  3 2 <c> <e> <n> 
+misquoted  2 1 <s> <qu> 
+homelands  3 2 <m> <e> <l> 
+sulphuretted  2 1 <l> <ph> 
+endorsements  3 2 <n> [d] 
+dukedom  3 2 <k> <e> <d> 
+prizefight  3 2 <z> <e> <f> 
+excrescence  3 0 <x> <c> <r> 
+namedropped  4 2 <m> <e> <d> <r> 
+housemistress  3 2 <s> <e> <m> 
+inducements  2 1 <n> <d> 
+inducements  3 2 <n> [d] 
+exposes  2 0 <x> <p> 
+safety  3 2 <f> <e> <t> 
+houseful  3 2 <s> <e> <f> 
+grandpas  3 2 <n> <d> <p> 
+settlements  3 2 [tt] 
+gateway  3 2 <t> <e> <w> 
+irately  3 2 [r] 
+bridgework  3 2 <dg> <e> <w> 
+completeness  5 1 <m> <p> <l> <e> <t> 
+waltzing  3 2 <l> <t> <z> 
+enthronements  3 2 <n> [th] [r] 
+misquotations  2 1 <s> <qu> 
+comradeship  3 2 <m> [r] 
+furtiveness  3 2 [t] 
+limejuice  3 2 <m> <e> <j> 
+infinitely  3 2 <n> [f] 
+phrasebook  3 2 <s> <e> <b> 
+capsule  2 1 <p> <s> 
+falsehoods  4 3 <l> <s> <e> <h> 
+nightwork  3 2 <gh> <t> <w> 
+flashcubes  2 1 <sh> <c> 
+delightfully  3 2 [l] 
+nestling  3 2 <s> <t> <l> 
+knightliest  3 2 <gh> <t> <l> 
+exploit  3 0 <x> <p> <l> 
+infusion  2 1 <n> <f> 
+policewomen  3 2 [l] 
+nursemaid  3 2 <s> <e> <m> 
+expatiates  2 0 <x> <p> 
+tarantula  2 1 [r] 
+expenses  2 0 <x> <p> 
+exhumes  2 1 <x> <h> 
+intricately  3 2 <n> [t] [r] 
+shameful  3 2 <m> <e> <f> 
+clothespins  4 3 <th> <e> <s> <p> 
+discursively  3 2 [s] [c] 
+minutemen  3 2 [n] 
+minelaying  3 2 <n> <e> <l> 
+sportively  3 2 [t] 
+profaneness  3 2 [f] 
+sanguinary  2 1 <n> <g> 
+underexpose  2 0 <n> [d] 
+closedowns  3 2 <s> <e> <d> 
+pinecone  3 2 <n> <e> <c> 
+penguins  2 1 <n> <g> 
+extempore  2 0 <x> <t> 
+experienced  2 0 <x> <p> 
+sextuplet  2 1 <x> <t> 
+namesake  3 2 <m> <e> <s> 
+inquisitors  2 1 <n> <qu> 
+embezzlements  4 1 <m> <b> <e> <zz> 
+abrasively  3 2 [b] [r] 
+icepacks  3 2 <c> <e> <p> 
+unexpected  2 0 <n> 
+noblewoman  3 2 [b] 
+sanely  3 2 <n> <e> <l> 
+management  3 2 [n] 
+passageways  3 2 [ss] 
+pipedreams  4 2 <p> <e> <d> <r> 
+atonement  3 2 [t] 
+contused  2 1 <n> <t> 
+inquires  2 1 <n> <qu> 
+grandsons  3 2 <n> <d> <s> 
+tranquillize  2 1 <n> <qu> 
+calfskin  4 2 <l> <f> <s> <k> 
+dinghies  3 1 <n> <g> <h> 
+executioner  3 0 <x> <e> <c> 
+hopefuls  3 2 <p> <e> <f> 
+intuited  2 1 <n> <t> 
+taleteller  3 2 <l> <e> <t> 
+namesakes  3 2 <m> <e> <s> 
+tastefulness  4 3 <s> <t> <e> <f> 
+purposelessly  3 2 [p] 
+expletives  3 0 <x> <p> <l> 
+defilement  3 2 [f] 
+wineskins  4 2 <n> <e> <s> <k> 
+horselaughs  3 2 <s> <e> <l> 
+turtleneck  3 2 [t] 
+differently  4 3 [ff] 
+expectation  2 0 <x> <p> 
+plaintively  3 2 <n> [t] 
+foxhounds  2 1 <x> <h> 
+bumblebee  3 2 <m> [b] 
+softeners  4 3 <f> <t> <e> <n> 
+sideswiping  4 2 <d> <e> <s> <w> 
+infuriates  2 1 <n> <f> 
+textbook  3 2 <x> <t> <b> 
+insulation  2 1 <n> <s> 
+nightclub  4 2 <gh> <t> <c> <l> 
+icerink  3 2 <c> <e> <r> 
+racetrack  4 2 <c> <e> <t> <r> 
+imputations  2 1 <m> <p> 
+princedom  4 3 <n> <c> <e> <d> 
+mixtures  2 1 <x> <t> 
+subtlety  3 2 [b] [t] 
+explicated  3 0 <x> <p> <l> 
+rectangular  2 1 <c> [t] 
+jocoseness  3 2 [c] 
+pavements  3 2 <v> <e> <m> 
+thoughtlessly  3 2 <gh> <t> <l> 
+endues  2 1 <n> <d> 
+divisively  3 2 [v] 
+disqualified  2 1 <s> <qu> 
+inquirer  2 1 <n> <qu> 
+emplacements  3 2 <m> [p] [l] 
+conquests  2 1 <n> <qu> 
+graveyard  3 2 <v> <e> <y> 
+retentiveness  3 2 [t] 
+tensely  4 3 <n> <s> <e> <l> 
+lonely  3 2 <n> <e> <l> 
+miscalculate  2 1 <s> [c] 
+sideways  3 2 <d> <e> <w> 
+typesetters  3 2 <p> <e> <s> 
+verboseness  3 2 [b] 
+infused  2 1 <n> <f> 
+guileful  3 2 <l> <e> <f> 
+minutely  3 2 [n] 
+entanglements  3 2 <n> [t] 
+obscurantists  3 1 <b> <s> <c> 
+tranquillized  2 1 <n> <qu> 
+nosedived  3 2 <s> <e> <d> 
+resettlement  3 2 [s] 
+dishonours  2 1 <s> <h> 
+comradeships  3 2 <m> [r] 
+servicewoman  3 2 [v] 
+tentativeness  3 2 <n> [t] 
+calmness  3 2 <l> <m> <n> 
+remorsefully  3 2 [m] 
+horsebox  3 2 <s> <e> <b> 
+spacecraft  4 2 <c> <e> <c> <r> 
+picturesqueness  4 1 <c> [t] 
+exculpates  2 0 <x> <c> 
+huckleberries  3 2 [ck] 
+sixgun  2 1 <x> <g> 
+racetracks  4 2 <c> <e> <t> <r> 
+correctively  3 2 [r] 
+nightmares  3 2 <gh> <t> <m> 
+restatement  3 2 [s] [t] 
+entanglement  3 2 <n> [t] 
+livestock  4 2 <v> <e> <s> <t> 
+inexpertly  2 0 <n> 
+newfangledness  4 3 [f] 
+unconsciousness  3 1 <n> [c] 
+animalcule  2 1 [n] 
+parenthood  2 1 [r] 
+baleful  3 2 <l> <e> <f> 
+prefectures  2 1 [f] 
+languid  2 1 <n> <g> 
+fiddlesticks  4 2 [dd] 
+extension  2 0 <x> <t> 
+transitively  3 2 <n> [s] 
+transfused  3 2 <n> <s> <f> 
+inhumane  2 1 <n> <h> 
+battlements  3 2 [tt] 
+casebook  3 2 <s> <e> <b> 
+plateful  3 2 <t> <e> <f> 
+contuses  2 1 <n> <t> 
+ninepin  3 2 <n> <e> <p> 
+impugned  2 1 <m> <p> 
+sandwich  3 2 <n> <d> <w> 
+misspells  2 0 <ss> <p> 
+extradited  3 0 <x> <t> <r> 
+pasteboard  4 3 <s> <t> <e> <b> 
+toneless  3 2 <n> <e> <l> 
+closeness  3 2 <s> <e> <n> 
+unquiet  2 1 <n> <qu> 
+selectively  3 2 [l] 
+extruding  3 0 <x> <t> <r> 
+cablegram  4 2 [b] 
+nosebleeds  4 2 <s> <e> <b> <l> 
+likeness  3 2 <k> <e> <n> 
+foxtrot  3 1 <x> <t> <r> 
+dolefulness  3 2 <l> <e> <f> 
+landscaping  4 2 <n> <d> <s> <c> 
+obsessional  4 1 <b> <s> <e> <ss> 
+awakenings  3 2 [w] 
+ingenuously  4 1 <n> <g> <e> <n> 
+brakemen  3 2 <k> <e> <m> 
+preciseness  3 2 [c] 
+exhale  2 1 <x> <h> 
+exports  2 0 <x> <p> 
+misspellings  2 0 <ss> <p> 
+lampposts  2 1 <m> <pp> 
+extinguishes  2 0 <x> <t> 
+extinguishes  2 1 [x] [t] 
+damnedest  4 3 <m> <n> <e> <d> 
+battledore  3 2 [tt] 
+indictments  3 2 <n> [d] 
+steeplechase  3 2 [p] 
+policemen  3 2 [l] 
+consumer  2 1 <n> <s> 
+taletellers  3 2 <l> <e> <t> 
+explosive  3 0 <x> <p> <l> 
+nightmarishness  3 2 <gh> <t> <m> 
+rightfully  3 2 <gh> <t> <f> 
+boneless  3 2 <n> <e> <l> 
+inquisitive  2 1 <n> <qu> 
+sideline  3 2 <d> <e> <l> 
+achievements  3 2 [ch] 
+contusion  2 1 <n> <t> 
+extradites  3 0 <x> <t> <r> 
+saleroom  3 2 <l> <e> <r> 
+expound  2 0 <x> <p> 
+casement  3 2 <s> <e> <m> 
+piecework  3 2 <c> <e> <w> 
+consummately  3 2 <n> [s] 
+minuteman  3 2 [n] 
+gamekeepers  3 2 <m> <e> <k> 
+tightly  3 2 <gh> <t> <l> 
+managements  3 2 [n] 
+placements  3 2 <c> <e> <m> 
+stipendiary  2 1 [p] 
+expedients  2 0 <x> <p> 
+phonecall  3 2 <n> <e> <c> 
+salesclerks  5 3 <l> <e> <s> <c> <l> 
+combatively  3 2 <m> [b] 
+shapeliness  3 2 <p> <e> <l> 
+freightliner  3 2 <gh> <t> <l> 
+proconsulate  2 1 [c] 
+sparseness  3 2 <s> <e> <n> 
+expels  2 0 <x> <p> 
+ramekin  3 2 <m> <e> <k> 
+admixture  2 1 <d> [m] 
+expos  2 0 <x> <p> 
+extemporize  2 0 <x> <t> 
+forthrightness  3 2 <th> [r] 
+somnambulate  2 1 <m> [n] 
+icefall  3 2 <c> <e> <f> 
+restiveness  3 2 [s] [t] 
+answers  3 1 <n> <s> <w> 
+sidekicks  3 2 <d> <e> <k> 
+obstinately  3 2 <b> [s] [t] 
+explicable  3 0 <x> <p> <l> 
+expostulate  2 0 <x> <p> 
+bronchial  2 1 <n> <ch> 
+misstating  2 0 <ss> <t> 
+tritely  3 2 <t> <e> <l> 
+suppleness  3 2 [pp] 
+sextons  2 0 <x> <t> 
+tablecloth  4 2 [b] 
+fivepenny  3 2 <v> <e> <p> 
+defensively  3 2 [f] 
+carriageway  3 2 [r] 
+housemen  3 2 <s> <e> <m> 
+experts  2 0 <x> <p> 
+salerooms  3 2 <l> <e> <r> 
+confinement  3 2 <n> [f] 
+housedog  3 2 <s> <e> <d> 
+disquiet  2 1 <s> <qu> 
+impassively  3 2 <m> [p] 
+yuletide  3 2 <l> <e> <t> 
+peacefully  3 2 <c> <e> <f> 
+nightcap  3 2 <gh> <t> <c> 
+housetrained  4 2 <s> <e> <t> <r> 
+choiceness  3 2 <c> <e> <n> 
+lively  3 2 <v> <e> <l> 
+vicelike  3 2 <c> <e> <l> 
+contumacies  2 1 <n> <t> 
+confusing  2 1 <n> <f> 
+excoriate  2 1 <x> <c> 
+shamefulness  3 2 <m> <e> <f> 
+intumescing  2 1 <n> <t> 
+typesets  3 2 <p> <e> <s> 
+homesick  3 2 <m> <e> <s> 
+paleface  3 2 <l> <e> <f> 
+transmutation  3 2 <n> <s> <m> 
+gravely  3 2 <v> <e> <l> 
+inquiry  2 1 <n> <qu> 
+sometimes  3 2 <m> <e> <t> 
+tidemark  3 2 <d> <e> <m> 
+incubation  2 1 <n> <c> 
+thoughtless  3 2 <gh> <t> <l> 
+notecase  3 2 <t> <e> <c> 
+explorative  3 1 <x> <p> <l> 
+expatriates  2 1 <x> <p> 
+tholepins  3 2 <l> <e> <p> 
+lineman  3 2 <n> <e> <m> 
+vindictiveness  3 2 <n> [d] 
+basely  3 2 <s> <e> <l> 
+lovechild  3 2 <v> <e> <ch> 
+incestuous  5 3 <n> <c> <e> <s> <t> 
+extortionists  2 0 <x> <t> 
+typesetter  3 2 <p> <e> <s> 
+musquash  2 1 <s> <qu> 
+expanses  2 0 <x> <p> 
+openings  3 2 <p> <e> <n> 
+minelayer  3 2 <n> <e> <l> 
+solemnly  3 2 [l] 
+spokeshaves  3 2 <k> <e> <sh> 
+folklorists  3 2 <l> <k> <l> 
+subsume  2 1 <b> <s> 
+expiation  2 0 <x> <p> 
+lightweight  3 2 <gh> <t> <w> 
+decisiveness  3 2 [c] 
+subdues  2 1 <b> <d> 
+isthmus  3 2 <s> <th> <m> 
+latecomer  3 2 <t> <e> <c> 
+expectorates  2 0 <x> <p> 
+excrescent  3 0 <x> <c> <r> 
+inquest  2 1 <n> <qu> 
+settlement  3 2 [tt] 
+concisely  3 2 <n> [c] 
+franchisement  3 2 <n> [ch] 
+battlefield  3 2 [tt] 
+wakeful  3 2 <k> <e> <f> 
+conclusively  3 2 <n> [c] [l] 
+driveways  3 2 <v> <e> <w> 
+datelines  3 2 <t> <e> <l> 
+delinquent  2 1 [l] 
+sextuplets  2 1 <x> <t> 
+wastefulness  4 3 <s> <t> <e> <f> 
+explodes  3 0 <x> <p> <l> 
+skateboard  3 2 <t> <e> <b> 
+uselessly  3 2 <s> <e> <l> 
+omelet  3 2 <m> <e> <l> 
+passageway  3 2 [ss] 
+championed  2 1 <m> <p> 
+inhumanely  2 1 <n> <h> 
+inhumanely  3 2 <n> [h] 
+multilingual  2 1 <l> [t] 
+household  3 2 <s> <e> <h> 
+centrepieces  3 1 <n> <t> <r> 
+strangulates  2 1 <n> <g> 
+ninepins  3 2 <n> <e> <p> 
+halfpennies  5 4 <l> <f> <p> <e> <nn> 
+unlikelihood  3 2 <n> [l] 
+amazement  3 2 [m] 
+asthmatics  3 2 <s> <th> <m> 
+delinquents  2 1 [l] 
+rhymester  4 2 <m> <e> <s> <t> 
+typecast  3 2 <p> <e> <c> 
+stonecutters  3 2 <n> <e> <c> 
+causatively  3 2 [s] 
+foxgloves  3 1 <x> <g> <l> 
+astuteness  3 2 [s] [t] 
+expanding  2 0 <x> <p> 
+lovechildren  3 2 <v> <e> <ch> 
+enticements  3 2 <n> [t] 
+sideslipping  4 2 <d> <e> <s> <l> 
+facecloths  4 2 <c> <e> <c> <l> 
+incendiaries  2 1 <n> [c] 
+unguent  2 1 <n> <g> 
+ensued  2 1 <n> <s> 
+sidetracking  4 2 <d> <e> <t> <r> 
+frightening  4 3 <gh> <t> <e> <n> 
+scriveners  3 2 <v> <e> <n> 
+expressive  3 0 <x> <p> <r> 
+nightlights  3 2 <gh> <t> <l> 
+sixties  2 1 <x> <t> 
+ceaselessly  3 2 <s> <e> <l> 
+weightlessly  3 2 <gh> <t> <l> 
+ungenerously  4 1 <n> <g> <e> <n> 
+impugn  2 1 <m> <p> 
+nighthawks  4 3 <g> <h> <t> <h> 
+hedgerows  3 2 <dg> <e> <r> 
+accentuates  2 1 [cc] 
+terseness  3 2 <s> <e> <n> 
+explore  3 0 <x> <p> <l> 
+riflemen  3 2 [f] 
+transfuses  3 2 <n> <s> <f> 
+foxhunt  2 1 <x> <h> 
+middlemen  3 2 [dd] 
+shuffleboard  3 2 [ff] 
+inquisitor  2 1 <n> <qu> 
+musclemen  3 2 [s] [c] 
+bottleneck  3 2 [tt] 
+relinquished  2 1 [l] 
+inventory  5 1 <n> <v> <e> <n> <t> 
+conscience  3 1 <n> <s> <c> 
+exhales  2 1 <x> <h> 
+lighthouse  4 3 <g> <h> <t> <h> 
+singletons  3 2 <n> [g] 
+incubated  2 1 <n> <c> 
+incitements  3 2 <n> [c] 
+calculation  2 1 <l> <c> 
+pronouncement  4 3 [n] 
+frightful  3 2 <gh> <t> <f> 
+octrois  3 1 <c> <t> <r> 
+sedately  3 2 [d] 
+receptively  3 2 [c] 
+priceless  3 2 <c> <e> <l> 
+subtleties  3 2 [b] [t] 
+ratepayer  3 2 <t> <e> <p> 
+sixpenny  2 1 <x> <p> 
+lukewarm  3 2 <k> <e> <w> 
+gamecocks  3 2 <m> <e> <c> 
+bridecakes  3 2 <d> <e> <c> 
+bristly  3 2 <s> <t> <l> 
+corrosively  3 2 [r] 
+stakeholders  3 2 <k> <e> <h> 
+jinxing  2 0 <n> <x> 
+deductively  3 2 [d] 
+extortions  2 0 <x> <t> 
+grandpa  3 2 <n> <d> <p> 
+wisecrack  4 2 <s> <e> <c> <r> 
+nosegays  3 2 <s> <e> <g> 
+sphinxes  2 0 <n> <x> 
+dislodgement  3 2 <s> [l] 
+explicitness  3 0 <x> <p> <l> 
+emasculates  2 1 [m] 
+landlord  3 2 <n> <d> <l> 
+safely  3 2 <f> <e> <l> 
+sideslips  4 2 <d> <e> <s> <l> 
+fulsomely  3 2 <l> [s] 
+inventories  5 1 <n> <v> <e> <n> <t> 
+sensual  2 1 <n> <s> 
+hedgehog  3 2 <dg> <e> <h> 
+discouragements  3 2 [s] [c] 
+remorsefulness  3 2 [m] 
+exploding  3 0 <x> <p> <l> 
+impressively  3 2 <m> [p] [r] 
+conduciveness  2 1 <n> <d> 
+conduciveness  3 2 <n> [d] 
+oneself  3 2 <n> <e> <s> 
+purposely  3 2 [p] 
+obstructively  3 2 <b> [s] [t] [r] 
+enthronement  3 2 <n> [th] [r] 
+rattlesnake  4 2 [tt] 
+statesmen  4 3 <t> <e> <s> <m> 
+relinquishing  2 1 [l] 
+knighthood  4 3 <g> <h> <t> <h> 
+skateboarder  3 2 <t> <e> <b> 
+prefecture  2 1 [f] 
+timesaving  3 2 <m> <e> <s> 
+sightly  3 2 <gh> <t> <l> 
+osculation  2 1 <s> <c> 
+sixpences  2 1 <x> <p> 
+exclamations  3 0 <x> <c> <l> 
+guilefulness  3 2 <l> <e> <f> 
+nightshirt  3 2 <gh> <t> <sh> 
+voiceless  3 2 <c> <e> <l> 
+languishing  2 1 <n> <g> 
+livelihood  3 2 <v> <e> <l> 
+disquieted  2 1 <s> <qu> 
+intumesced  2 1 <n> <t> 
+typeface  3 2 <p> <e> <f> 
+explosions  3 0 <x> <p> <l> 
+sensualist  2 1 <n> <s> 
+limekiln  3 2 <m> <e> <k> 
+coarsely  3 2 <s> <e> <l> 
+shakedown  3 2 <k> <e> <d> 
+immediateness  3 2 [mm] 
+framework  3 2 <m> <e> <w> 
+archdukes  2 1 <ch> <d> 
+disqualify  2 1 <s> <qu> 
+permissively  3 2 [m] 
+chisellers  3 2 <s> <e> <ll> 
+subcutaneous  2 1 <b> <c> 
+peacetime  3 2 <c> <e> <t> 
+passiveness  3 2 [ss] 
+effacement  3 2 [ff] 
+stokeholds  3 2 <k> <e> <h> 
+crepuscular  2 1 [p] 
+singularly  2 1 <n> <g> 
+hometown  3 2 <m> <e> <t> 
+casework  3 2 <s> <e> <w> 
+safebreaker  4 2 <f> <e> <b> <r> 
+dethronements  3 2 [th] [r] 
+lifelike  3 2 <f> <e> <l> 
+exclusives  3 0 <x> <c> <l> 
+ropeyard  3 2 <p> <e> <y> 
+rightly  3 2 <gh> <t> <l> 
+rhymesters  4 2 <m> <e> <s> <t> 
+seclusiveness  3 2 [c] [l] 
+homemade  3 2 <m> <e> <m> 
+guileless  3 2 <l> <e> <l> 
+miscue  2 1 <s> <c> 
+punitively  3 2 [n] 
+exculpating  2 0 <x> <c> 
+calculated  2 1 <l> <c> 
+expunging  2 0 <x> <p> 
+housebroken  4 2 <s> <e> <b> <r> 
+unlikeliness  3 2 <n> [l] 
+lifeless  3 2 <f> <e> <l> 
+hopefully  3 2 <p> <e> <f> 
+exhumed  2 1 <x> <h> 
+impeccably  4 1 <m> <p> <e> <cc> 
+folktales  3 2 <l> <k> <t> 
+amputate  2 1 <m> <p> 
+actuates  2 1 <c> <t> 
+assertively  3 2 [ss] 
+expresses  3 0 <x> <p> <r> 
+knightlier  3 2 <gh> <t> <l> 
+oxcart  2 1 <x> <c> 
+ridgepoles  3 2 <dg> <e> <p> 
+exclamation  3 0 <x> <c> <l> 
+noblewomen  3 2 [b] 
+sensitively  3 2 <n> [s] 
+reflectively  3 2 [f] [l] 
+judgement  3 2 <dg> <e> <m> 
+brinksmanship  4 3 <n> <k> <s> <m> 
+incubuses  2 1 <n> <c> 
+ichneumons  2 1 <ch> <n> 
+contemptuously  6 5 <n> <t> <e> <m> <p> <t> 
+stonewalled  3 2 <n> <e> <w> 
+resemblance  2 1 [s] 
+expelling  2 0 <x> <p> 
+workableness  3 2 [k] 
+basements  3 2 <s> <e> <m> 
+passepartout  3 2 <ss> <e> <p> 
+pendulously  2 1 <n> <d> 
+descriptively  3 2 [s] [c] [r] 
+piecemeal  3 2 <c> <e> <m> 
+expiate  2 0 <x> <p> 
+stagestruck  5 2 <g> <e> <s> <t> <r> 
+ingenuous  4 1 <n> <g> <e> <n> 
+remembrances  2 1 [m] 
+corrosiveness  3 2 [r] 
+intumescent  2 1 <n> <t> 
+meddlesome  3 2 [dd] 
+pavement  3 2 <v> <e> <m> 
+homeless  3 2 <m> <e> <l> 
+spikenard  3 2 <k> <e> <n> 
+entitlement  3 2 <n> [t] 
+caseworkers  3 2 <s> <e> <w> 
+appropriately  3 2 [pp] [r] 
+confutations  2 1 <n> <f> 
+horseplay  4 2 <s> <e> <p> <l> 
+mensuration  2 1 <n> <s> 
+extinguished  2 0 <x> <t> 
+extinguished  2 1 [x] [t] 
+judgements  3 2 <dg> <e> <m> 
+exploit  3 0 <x> <p> <l> 
+substantively  3 2 <b> [s] [t] 
+explorer  3 0 <x> <p> <l> 
+homelier  3 2 <m> <e> <l> 
+placeseeker  3 2 <c> <e> <s> 
+doubtfully  3 2 <b> <t> <f> 
+minesweeping  4 2 <n> <e> <s> <w> 
+phalanxes  2 0 [l] 
+sextants  2 0 <x> <t> 
+horsepower  3 2 <s> <e> <p> 
+overexpose  2 0 [v] 
+roseleaf  3 2 <s> <e> <l> 
+gentlewomen  3 2 <n> [t] 
+hatefulness  3 2 <t> <e> <f> 
+spinelessness  3 2 <n> <e> <l> 
+saxhorn  2 1 <x> <h> 
+rudely  3 2 <d> <e> <l> 
+endue  2 1 <n> <d> 
+hatefully  3 2 <t> <e> <f> 
+pendulum  2 1 <n> <d> 
+asthma  3 2 <s> <th> <m> 
+ultimately  3 2 <l> [t] 
+winepress  4 2 <n> <e> <p> <r> 
+minuteness  3 2 [n] 
+inductively  3 2 <n> [d] 
+sluiceway  3 2 <c> <e> <w> 
+champion  2 1 <m> <p> 
+winebibber  3 2 <n> <e> <b> 
+backsword  3 1 <ck> <s> <w> 
+wifelike  3 2 <f> <e> <l> 
+scapegoat  3 2 <p> <e> <g> 
+folksiest  3 2 <l> <k> <s> 
+dexterous  2 0 <x> <t> 
+namely  3 2 <m> <e> <l> 
+livelihoods  3 2 <v> <e> <l> 
+landscape  4 2 <n> <d> <s> <c> 
+elopements  3 2 [l] 
+amputees  2 1 <m> <p> 
+clandestinely  3 2 <n> [d] 
+extracting  3 0 <x> <t> <r> 
+pinewoods  3 2 <n> <e> <w> 
+explosives  3 0 <x> <p> <l> 
+goosestep  4 2 <s> <e> <s> <t> 
+banquets  2 1 <n> <qu> 
+hoarsely  3 2 <s> <e> <l> 
+excavator  2 0 <x> <c> 
+tenseness  4 3 <n> <s> <e> <n> 
+explosively  3 0 <x> <p> <l> 
+explosively  3 2 [x] [p] [l] 
+statesman  4 3 <t> <e> <s> <m> 
+hopefulness  3 2 <p> <e> <f> 
+extortion  2 0 <x> <t> 
+pipeclay  4 2 <p> <e> <c> <l> 
+extradite  3 0 <x> <t> <r> 
+bargemen  3 2 <g> <e> <m> 
+fondues  2 1 <n> <d> 
+gravestones  4 2 <v> <e> <s> <t> 
+endured  2 1 <n> <d> 
+kumquats  2 1 <m> <qu> 
+dextrous  3 0 <x> <t> <r> 
+frighteningly  4 3 <gh> <t> <e> <n> 
+stokehold  3 2 <k> <e> <h> 
+gatekeepers  3 2 <t> <e> <k> 
+halfpennyworth  5 4 <l> <f> <p> <e> <nn> 
+expiring  2 0 <x> <p> 
+whitethorn  3 2 <t> <e> <th> 
+fastener  4 3 <s> <t> <e> <n> 
+amusement  3 2 [m] 
+folktale  3 2 <l> <k> <t> 
+icecaps  3 2 <c> <e> <c> 
+unanswered  3 1 <n> 
+swineherd  3 2 <n> <e> <h> 
+comeback  3 2 <m> <e> <b> 
+broadsword  3 1 <d> <s> <w> 
+exhalations  2 1 <x> <h> 
+battlegrounds  4 2 [tt] 
+nightclubs  4 2 <gh> <t> <c> <l> 
+stonebreakers  4 2 <n> <e> <b> <r> 
+prizeman  3 2 <z> <e> <m> 
+infuses  2 1 <n> <f> 
+extremism  3 0 <x> <t> <r> 
+excursions  2 0 <x> <c> 
+supremely  3 2 [p] [r] 
+emotively  3 2 [m] 
+gentlefolk  3 2 <n> [t] 
+suavely  3 2 <v> <e> <l> 
+hoarseness  3 2 <s> <e> <n> 
+leasehold  3 2 <s> <e> <h> 
+subconscious  3 1 <b> [c] 
+lonelier  3 2 <n> <e> <l> 
+impalement  3 2 <m> [p] 
+lifeguards  3 2 <f> <e> <g> 
+expend  2 0 <x> <p> 
+closedown  3 2 <s> <e> <d> 
+handsomely  3 2 <n> <d> <s> 
+handsomely  3 2 <n> <d> [s] 
+excursionists  2 0 <x> <c> 
+expressionist  3 0 <x> <p> <r> 
+answerable  3 1 <n> <s> <w> 
+waltzes  3 2 <l> <t> <z> 
+timeserving  3 2 <m> <e> <s> 
+extraditing  3 0 <x> <t> <r> 
+nosecone  3 2 <s> <e> <c> 
+notepaper  3 2 <t> <e> <p> 
+nineteen  3 2 <n> <e> <t> 
+sidestep  4 2 <d> <e> <s> <t> 
+conquistadors  2 1 <n> <qu> 
+policeman  3 2 [l] 
+pendulous  2 1 <n> <d> 
+tumbleweed  3 2 <m> [b] 
+baselines  3 2 <s> <e> <l> 
+sideslip  4 2 <d> <e> <s> <l> 
+sandwiched  3 2 <n> <d> <w> 
+safecrackers  4 2 <f> <e> <c> <r> 
+explores  3 0 <x> <p> <l> 
+obscuring  3 1 <b> <s> <c> 
+ropewalker  3 2 <p> <e> <w> 
+typescripts  5 2 <p> <e> <s> <c> <r> 
+miscued  2 1 <s> <c> 
+gatepost  3 2 <t> <e> <p> 
+extrication  3 1 <x> <t> <r> 
+hopelessness  3 2 <p> <e> <l> 
+proconsulates  2 1 [c] 
+subversiveness  3 2 <b> [v] 
+turtledoves  3 2 [t] 
+exportation  2 0 <x> <p> 
+collectively  3 2 [ll] 
+extenuate  2 0 <x> <t> 
+suggestively  3 2 [gg] 
+transsexuals  2 1 <n> <ss> 
+stonewalls  3 2 <n> <e> <w> 
+guidebook  3 2 <d> <e> <b> 
+flightless  3 2 <gh> <t> <l> 
+peninsular  2 1 [n] 
+extricating  3 0 <x> <t> <r> 
+protrusively  3 2 [t] [r] 
+clothespin  4 3 <th> <e> <s> <p> 
+excretes  3 0 <x> <c> <r> 
+looseness  3 2 <s> <e> <n> 
+prizefighting  3 2 <z> <e> <f> 
+exposition  2 0 <x> <p> 
+incestuously  5 3 <n> <c> <e> <s> <t> 
+extraneous  3 0 <x> <t> <r> 
+singlestick  4 2 <n> [g] 
+spokesmen  4 3 <k> <e> <s> <m> 
+excluded  3 0 <x> <c> <l> 
+predictively  3 2 [d] 
+nightlines  3 2 <gh> <t> <l> 
+lateness  3 2 <t> <e> <n> 
+timetabling  3 2 <m> <e> <t> 
+ambidextrous  3 1 <m> [b] 
+statelier  3 2 <t> <e> <l> 
+hedgehopping  3 2 <dg> <e> <h> 
+gamekeeper  3 2 <m> <e> <k> 
+somnambulist  2 1 <m> [n] 
+straightforward  3 2 <gh> <t> <f> 
+adumbrating  2 1 [d] 
+encouragement  3 2 <n> [c] 
+ropeyards  3 2 <p> <e> <y> 
+exploits  3 0 <x> <p> <l> 
+icebergs  3 2 <c> <e> <b> 
+textile  2 0 <x> <t> 
+abscesses  3 1 <b> <s> <c> 
+groundsel  3 2 <n> <d> <s> 
+copestone  4 2 <p> <e> <s> <t> 
+extracted  3 0 <x> <t> <r> 
+extremity  3 1 <x> <t> <r> 
+typewriting  3 2 <p> <e> <wr> 
+blamelessness  3 2 <m> <e> <l> 
+folksy  3 2 <l> <k> <s> 
+misspending  2 0 <ss> <p> 
+expends  2 0 <x> <p> 
+gardeners  3 2 <d> <e> <n> 
+lingual  2 1 <n> <g> 
+waxworks  2 1 <x> <w> 
+misstates  2 0 <ss> <t> 
+houselights  3 2 <s> <e> <l> 
+evenings  3 2 <v> <e> <n> 
+needlepoint  3 2 [d] 
+championing  2 1 <m> <p> 
+extractions  3 0 <x> <t> <r> 
+displacement  3 2 <s> [p] [l] 
+tastefully  4 3 <s> <t> <e> <f> 
+tunelessly  3 2 <n> <e> <l> 
+grandchildren  3 2 <n> <d> <ch> 
+candlesticks  4 2 <n> [d] 
+innately  3 2 [nn] 
+comely  3 2 <m> <e> <l> 
+chestnut  3 2 <s> <t> <n> 
+actuated  2 1 <c> <t> 
+javelin  3 2 <v> <e> <l> 
+sundew  2 1 <n> <d> 
+submissiveness  3 2 <b> [m] 
+nettlerash  3 2 [tt] 
+blithesome  3 2 <th> <e> <s> 
+obstructiveness  3 2 <b> [s] [t] [r] 
+responsiveness  3 2 [s] [p] 
+housecoats  3 2 <s> <e> <c> 
+expire  2 0 <x> <p> 
+infuriate  2 1 <n> <f> 
+ambulant  2 1 <m> <b> 
+ninepence  3 2 <n> <e> <p> 
+spokeshave  3 2 <k> <e> <sh> 
+sceneshifters  3 2 <n> <e> <sh> 
+nightshirts  3 2 <gh> <t> <sh> 
+temperateness  3 2 <m> [p] 
+troubleshooter  3 2 [b] 
+expenditures  2 0 <x> <p> 
+vegetables  3 2 <g> <e> <t> 
+nosediving  3 2 <s> <e> <d> 
+extinguishing  2 0 <x> <t> 
+extinguishing  2 1 [x] [t] 
+incubators  2 1 <n> <c> 
+experiences  2 0 <x> <p> 
+linguist  2 1 <n> <g> 
+trademark  3 2 <d> <e> <m> 
+tightropes  3 2 <gh> <t> <r> 
+straightforwardly  3 2 <gh> <t> <f> 
+greasepaint  3 2 <s> <e> <p> 
+causeway  3 2 <s> <e> <w> 
+lovely  3 2 <v> <e> <l> 
+housewives  3 2 <s> <e> <w> 
+gooseflesh  4 2 <s> <e> <f> <l> 
+smokestack  4 2 <k> <e> <s> <t> 
+expiated  2 0 <x> <p> 
+viceroy  3 2 <c> <e> <r> 
+disengagement  3 2 <s> 
+ichneumon  2 1 <ch> <n> 
+presumptively  3 2 [s] 
+nightsticks  4 2 <gh> <t> <s> <t> 
+nervelessly  3 2 <v> <e> <l> 
+nestlings  3 2 <s> <t> <l> 
+polecats  3 2 <l> <e> <c> 
+exclusively  3 0 <x> <c> <l> 
+exclusively  3 2 [x] [c] [l] 
+starvelings  3 2 <v> <e> <l> 
+icefields  3 2 <c> <e> <f> 
+icehouse  3 2 <c> <e> <h> 
+stonemason  3 2 <n> <e> <m> 
+impugns  2 1 <m> <p> 
+omelets  3 2 <m> <e> <l> 
+extirpate  2 0 <x> <t> 
+delightful  3 2 [l] 
+stickleback  3 2 [ck] 
+whitethroats  4 2 <t> <e> <th> <r> 
+thimblefuls  3 2 <m> [b] 
+whortleberries  3 2 [t] 
+expects  2 0 <x> <p> 
+noctambulist  2 1 <c> [t] 
+insensately  3 2 <n> [s] 
+tablelands  3 2 [b] 
+cuddlesome  3 2 [dd] 
+extolling  2 0 <x> <t> 
+constructively  3 2 <n> [s] [t] [r] 
+liegeman  3 2 <g> <e> <m> 
+gateposts  3 2 <t> <e> <p> 
+sidewalk  3 2 <d> <e> <w> 
+valvular  2 1 <l> <v> 
+arsehole  3 2 <s> <e> <h> 
+stateroom  3 2 <t> <e> <r> 
+understatement  3 2 <n> [d] 
+subduing  2 1 <b> <d> 
+javelins  3 2 <v> <e> <l> 
+senselessly  4 3 <n> <s> <e> <l> 
+disquietude  2 1 <s> <qu> 
+uniquely  3 2 [n] 
+dismantlement  3 2 <s> [m] 
+salesmanship  4 3 <l> <e> <s> <m> 
+eavesdropping  5 3 <v> <e> <s> <d> <r> 
+proximately  3 2 [x] 
+gardening  3 2 <d> <e> <n> 
+actuary  2 1 <c> <t> 
+nicely  3 2 <c> <e> <l> 
+jejunely  3 2 [j] 
+inquiet  2 1 <n> <qu> 
+battlefields  3 2 [tt] 
+guidebooks  3 2 <d> <e> <b> 
+rosewood  3 2 <s> <e> <w> 
+exhumation  2 1 <x> <h> 
+extinguisher  2 0 <x> <t> 
+extinguisher  2 1 [x] [t] 
+singularized  2 1 <n> <g> 
+sulphurets  2 1 <l> <ph> 
+expendable  2 0 <x> <p> 
+somebody  3 2 <m> <e> <b> 
+aggressively  3 2 [gg] [r] 
+cancelling  4 1 <n> <c> <e> <ll> 
+timework  3 2 <m> <e> <w> 
+dissolutely  3 2 [ss] 
+horselaugh  3 2 <s> <e> <l> 
+expelled  2 0 <x> <p> 
+pebbledash  3 2 [bb] 
+clothesbaskets  4 3 <th> <e> <s> <b> 
+insulates  2 1 <n> <s> 
+rosemary  3 2 <s> <e> <m> 
+dalesmen  4 3 <l> <e> <s> <m> 
+ninefold  3 2 <n> <e> <f> 
+servilely  3 2 [v] 
+disparately  3 2 [s] [p] 
+pipelines  3 2 <p> <e> <l> 
+basement  3 2 <s> <e> <m> 
+stonewall  3 2 <n> <e> <w> 
+overstatements  3 2 [v] 
+cobblestones  4 2 [bb] 
+calculable  2 1 <l> <c> 
+enthuse  2 1 <n> <th> 
+expertise  2 0 <x> <p> 
+excusably  2 0 <x> <c> 
+useless  3 2 <s> <e> <l> 
+savageness  3 2 [v] 
+insulate  2 1 <n> <s> 
+stonewalling  3 2 <n> <e> <w> 
+textbooks  3 2 <x> <t> <b> 
+skateboarding  3 2 <t> <e> <b> 
+sightsee  3 2 <gh> <t> <s> 
+dethronement  3 2 [th] [r] 
+exhaustively  3 2 <x> [h] 
+dovecotes  3 2 <v> <e> <c> 
+inglenooks  3 2 <n> [g] 
+inducing  2 1 <n> <d> 
+softener  4 3 <f> <t> <e> <n> 
+exhumations  2 1 <x> <h> 
+lifeboat  3 2 <f> <e> <b> 
+nervelessness  3 2 <v> <e> <l> 
+unlikelier  3 2 <n> [l] 
+limestone  4 2 <m> <e> <s> <t> 
+misjudgements  3 2 <s> [j] 
+nighthawk  4 3 <g> <h> <t> <h> 
+exporters  2 0 <x> <p> 
+derisively  3 2 [r] 
+obtuse  2 1 <b> <t> 
+ensanguines  2 1 <n> [s] 
+supinely  3 2 [p] 
+disqualifies  2 1 <s> <qu> 
+contemptuous  6 5 <n> <t> <e> <m> <p> <t> 
+linguistic  2 1 <n> <g> 
+grateful  3 2 <t> <e> <f> 
+suitableness  3 2 [t] 
+expedited  2 0 <x> <p> 
+grandmother  3 2 <n> <d> <m> 
+milestones  4 2 <l> <e> <s> <t> 
+sameness  3 2 <m> <e> <n> 
+middleweight  3 2 [dd] 
+obtuseness  2 1 <b> <t> 
+obtuseness  3 2 <b> [t] 
+lightning  3 2 <gh> <t> <n> 
+sedateness  3 2 [d] 
+ambulance  2 1 <m> <b> 
+sidesmen  4 3 <d> <e> <s> <m> 
+stonebreaker  4 2 <n> <e> <b> <r> 
+homeland  3 2 <m> <e> <l> 
+enhancements  4 3 <n> [h] 
+languishes  2 1 <n> <g> 
+obscure  3 1 <b> <s> <c> 
+opportunely  3 2 [pp] 
+subversively  3 2 <b> [v] 
+hustler  2 1 <s> <t> 
+extends  2 0 <x> <t> 
+vilely  3 2 <l> <e> <l> 
+thoughtfulness  3 2 <gh> <t> <f> 
+businesswomen  4 3 [s] 
+laxly  2 1 <x> <l> 
+impugning  2 1 <m> <p> 
+housemaid  3 2 <s> <e> <m> 
+exposing  2 0 <x> <p> 
+adumbration  2 1 [d] 
+hobbledehoy  3 2 [bb] 
+hedgehogs  3 2 <dg> <e> <h> 
+eightpenny  3 2 <gh> <t> <p> 
+sportiveness  3 2 [t] 
+whalebone  3 2 <l> <e> <b> 
+headdresses  2 0 <dd> <r> 
+underexposed  2 0 <n> [d] 
+resemblances  2 1 [s] 
+disgracefully  3 2 <s> [g] [r] 
+contumacious  2 1 <n> <t> 
+housekeepers  3 2 <s> <e> <k> 
+postponement  3 2 <s> <t> [p] 
+staterooms  3 2 <t> <e> <r> 
+exteriorize  2 0 <x> <t> 
+obtrusively  3 2 <b> [t] [r] 
+assemblage  2 1 [ss] 
+shakedowns  3 2 <k> <e> <d> 
+abortively  3 2 [b] 
+spitefully  3 2 <t> <e> <f> 
+homelessness  3 2 <m> <e> <l> 
+comedown  3 2 <m> <e> <d> 
+respectively  3 2 [s] [p] 
+rulebooks  3 2 <l> <e> <b> 
+waistcoat  3 2 <s> <t> <c> 
+thoughtlessness  3 2 <gh> <t> <l> 
+misquotation  2 1 <s> <qu> 
+icefalls  3 2 <c> <e> <f> 
+headquarters  2 1 <d> <qu> 
+fulsomeness  3 2 <l> [s] 
+preventively  3 2 [v] 
+expectantly  2 0 <x> <p> 
+tumbledown  3 2 <m> [b] 
+inquisitions  2 1 <n> <qu> 
+horsemeat  3 2 <s> <e> <m> 
+exponent  2 0 <x> <p> 
+slightly  3 2 <gh> <t> <l> 
+restively  3 2 [s] [t] 
+concubinage  2 1 <n> <c> 
+saucepan  3 2 <c> <e> <p> 
+dovetails  3 2 <v> <e> <t> 
+impunity  2 1 <m> <p> 
+calculus  2 1 <l> <c> 
+staleness  3 2 <l> <e> <n> 
+irateness  3 2 [r] 
+ramekins  3 2 <m> <e> <k> 
+hindquarters  3 2 <n> <d> <qu> 
+grapefruit  4 2 <p> <e> <f> <r> 
+endure  2 1 <n> <d> 
+imputation  2 1 <m> <p> 
+kumquat  2 1 <m> <qu> 
+elopement  3 2 [l] 
+effectively  3 2 [ff] 
+nightstick  4 2 <gh> <t> <s> <t> 
+candlewicks  3 2 <n> [d] 
+fasteners  4 3 <s> <t> <e> <n> 
+variableness  3 2 [r] 
+attractively  3 2 [tt] [r] 
+lameness  3 2 <m> <e> <n> 
+cheeseparing  3 2 <s> <e> <p> 
+exquisite  2 0 <x> <qu> 
+amusements  3 2 [m] 
+unquote  2 1 <n> <qu> 
+simpletons  3 2 <m> [p] 
+effectuates  2 1 [ff] 
+lifeblood  4 2 <f> <e> <b> <l> 
+starveling  3 2 <v> <e> <l> 
+inventiveness  5 1 <n> <v> <e> <n> <t> 
+sideward  3 2 <d> <e> <w> 
+nursemaids  3 2 <s> <e> <m> 
+snakebite  3 2 <k> <e> <b> 
+exchangeable  2 1 <x> <ch> 
+assemblyman  2 1 [ss] 
+sagely  3 2 <g> <e> <l> 
+housebreakers  4 2 <s> <e> <b> <r> 
+conquest  2 1 <n> <qu> 
+boneshaker  3 2 <n> <e> <sh> 
+rattlebrained  4 2 [tt] 
+effectiveness  3 2 [ff] 
+inclusively  3 2 <n> [c] [l] 
+businesswoman  4 3 [s] 
+exhume  2 1 <x> <h> 
+refinements  3 2 [f] 
+foxtrotting  3 1 <x> <t> <r> 
+expedite  2 0 <x> <p> 
+miscues  2 1 <s> <c> 
+sagebrush  4 2 <g> <e> <b> <r> 
+somnambulates  2 1 <m> [n] 
+misstatement  2 0 <ss> <t> 
+misstatement  3 2 [ss] [t] 
+sidestroke  5 2 <d> <e> <s> <t> <r> 
+expressively  3 0 <x> <p> <r> 
+expressively  3 2 [x] [p] [r] 
+chalkpits  3 2 <l> <k> <p> 
+tranquil  2 1 <n> <qu> 
+effectuate  2 1 [ff] 
+remorselessly  3 2 [m] 
+sightscreen  5 2 <gh> <t> <s> <c> <r> 
+explain  3 0 <x> <p> <l> 
+whitewashing  3 2 <t> <e> <w> 
+fickleness  3 2 [ck] 
+statement  3 2 <t> <e> <m> 
+tribesman  4 3 <b> <e> <s> <m> 
+gatekeeper  3 2 <t> <e> <k> 
+needlewomen  3 2 [d] 
+undulation  2 1 <n> <d> 
+tightness  3 2 <gh> <t> <n> 
+sombreness  3 1 <m> <b> <r> 
+housemasters  3 2 <s> <e> <m> 
+kettledrum  4 2 [tt] 
+stately  3 2 <t> <e> <l> 
+serviceman  3 2 [v] 
+notebook  3 2 <t> <e> <b> 
+bereavement  3 2 [r] 
+confutation  2 1 <n> <f> 
+inquirers  2 1 <n> <qu> 
+estuaries  2 1 <s> <t> 
+lynxes  2 0 <n> <x> 
+coxcomb  2 1 <x> <c> 
+rulebook  3 2 <l> <e> <b> 
+extracts  3 0 <x> <t> <r> 
+lonesome  3 2 <n> <e> <s> 
+handkerchiefs  3 2 <n> <d> <k> 
+explanation  3 0 <x> <p> <l> 
+impressiveness  5 1 <m> <p> <r> <e> <ss> 
+homestead  4 2 <m> <e> <s> <t> 
+noiselessness  3 2 <s> <e> <l> 
+tempestuously  5 1 <m> <p> <e> <s> <t> 
+expatiate  2 0 <x> <p> 
+doublethink  3 2 [b] 
+sidetracked  4 2 <d> <e> <t> <r> 
+transfusion  3 2 <n> <s> <f> 
+incubate  2 1 <n> <c> 
+fivefold  3 2 <v> <e> <f> 
+extemporized  2 0 <x> <t> 
+profanely  3 2 [f] 
+cohesiveness  3 2 [h] 
+gooseberry  3 2 <s> <e> <b> 
+replacement  3 2 [p] [l] 
+blameless  3 2 <m> <e> <l> 
+gooseberries  3 2 <s> <e> <b> 
+rustler  3 2 <s> <t> <l> 
+opaqueness  3 2 [p] 
+makeshifts  3 2 <k> <e> <sh> 
+dissoluteness  3 2 [ss] 
+sideswiped  4 2 <d> <e> <s> <w> 
+pikestaffs  4 2 <k> <e> <s> <t> 
+eavesdroppers  5 3 <v> <e> <s> <d> <r> 
+nimbleness  3 2 <m> [b] 
+halfpenny  5 4 <l> <f> <p> <e> <nn> 
+bracelets  3 2 <c> <e> <l> 
+unsightly  3 2 <n> [s] 
+proneness  3 2 <n> <e> <n> 
+extrapolates  3 0 <x> <t> <r> 
+machinegun  3 2 [ch] 
+saddlebag  3 2 [dd] 
+excreted  3 0 <x> <c> <r> 
+excavations  2 0 <x> <c> 
+excursion  2 0 <x> <c> 
+absolutely  3 2 <b> [s] 
+extricates  3 0 <x> <t> <r> 
+lightbulbs  3 2 <gh> <t> <b> 
+exposures  2 0 <x> <p> 
+extirpation  2 0 <x> <t> 
+extradition  3 0 <x> <t> <r> 
+malmsey  3 2 <l> <m> <s> 
+export  2 0 <x> <p> 
+gatecrash  4 2 <t> <e> <c> <r> 
+obscurantist  3 1 <b> <s> <c> 
+sexless  2 1 <x> <l> 
+exterminates  2 0 <x> <t> 
+consume  2 1 <n> <s> 
+destructiveness  3 2 [s] [t] [r] 
+ratepayers  3 2 <t> <e> <p> 
+blamelessly  3 2 <m> <e> <l> 
+extracts  3 0 <x> <t> <r> 
+abscess  3 1 <b> <s> <c> 
+linguistics  2 1 <n> <g> 
+politely  3 2 [l] 
+bottleful  3 2 [tt] 
+nosegay  3 2 <s> <e> <g> 
+octroi  3 1 <c> <t> <r> 
+restrictively  3 2 [s] [t] [r] 
+tarantulas  2 1 [r] 
+sceneshifter  3 2 <n> <e> <sh> 
+traveller  3 2 <v> <e> <ll> 
+intumesces  2 1 <n> <t> 
+minesweeper  4 2 <n> <e> <s> <w> 
+mildewed  2 1 <l> <d> 
+plenteousness  2 1 <n> <t> 
+hedgehop  3 2 <dg> <e> <h> 
+obtrusiveness  3 2 <b> [t] [r] 
+downrightness  3 2 <n> [r] 
+excogitates  2 1 <x> <c> 
+sideboards  3 2 <d> <e> <b> 
+profuseness  3 2 [f] 
+blameworthiness  3 2 <m> <e> <w> 
+raspberries  3 2 <s> <p> <b> 
+foxglove  3 1 <x> <g> <l> 
+palely  3 2 <l> <e> <l> 
+noteworthy  3 2 <t> <e> <w> 
+excogitate  2 1 <x> <c> 
+sprucely  3 2 <c> <e> <l> 
+falseness  4 3 <l> <s> <e> <n> 
+housewarming  3 2 <s> <e> <w> 
+incubus  2 1 <n> <c> 
+sightless  3 2 <gh> <t> <l> 
+misjudgement  3 2 <s> [j] 
+computerized  2 1 <m> <p> 
+effeteness  3 2 [ff] 
+candlewick  3 2 <n> [d] 
+sightseeing  3 2 <gh> <t> <s> 
+decolletage  3 2 [c] 
+isthmuses  3 2 <s> <th> <m> 
+exchange  2 1 <x> <ch> 
+excusable  2 0 <x> <c> 
+diversely  3 2 [v] 
+housemother  3 2 <s> <e> <m> 
+housewarmings  3 2 <s> <e> <w> 
+spaceship  3 2 <c> <e> <sh> 
+houseflies  4 2 <s> <e> <f> <l> 
+expansively  2 0 <x> <p> 
+expansively  3 2 [x] [p] 
+explosiveness  3 0 <x> <p> <l> 
+explosiveness  3 2 [x] [p] [l] 
+expected  2 0 <x> <p> 
+finely  3 2 <n> <e> <l> 
+edgewise  3 2 <dg> <e> <w> 
+expurgating  2 0 <x> <p> 
+remembrance  2 1 [m] 
+textiles  2 0 <x> <t> 
+troublemaker  3 2 [b] 
+halfway  3 2 <l> <f> <w> 
+tinselling  4 1 <n> <s> <e> <ll> 
+misquoting  2 1 <s> <qu> 
+homely  3 2 <m> <e> <l> 
+languished  2 1 <n> <g> 
+clotheslines  4 3 <th> <e> <s> <l> 
+straightway  3 2 <gh> <t> <w> 
+effortlessly  5 4 [ff] 
+pervasiveness  3 2 [v] 
+politburos  2 1 [l] 
+obscenities  3 1 <b> <s> <c> 
+dovetailed  3 2 <v> <e> <t> 
+permissiveness  3 2 [m] 
+alehouse  3 2 <l> <e> <h> 
+kohlrabis  3 2 <h> <l> <r> 
+anguish  2 1 <n> <g> 
+houseboats  3 2 <s> <e> <b> 
+peacemaker  3 2 <c> <e> <m> 
+horsehair  3 2 <s> <e> <h> 
+strangulate  2 1 <n> <g> 
+nonetheless  3 2 <n> <e> <th> 
+excluding  3 0 <x> <c> <l> 
+icecap  3 2 <c> <e> <c> 
+placekick  3 2 <c> <e> <k> 
+explorations  3 0 <x> <p> <l> 
+homeliness  3 2 <m> <e> <l> 
+enfeeblement  3 2 <n> [f] 
+exhalation  2 1 <x> <h> 
+needlepoints  3 2 [d] 
+quintuplets  2 1 <n> <t> 
+anxiously  2 1 <n> <x> 
+transmutes  3 2 <n> <s> <m> 
+cutely  3 2 <t> <e> <l> 
+useful  3 2 <s> <e> <f> 
+cablegrams  4 2 [b] 
+attractiveness  3 2 [tt] [r] 
+shamefaced  3 2 <m> <e> <f> 
+vantagepoint  3 2 <n> [t] 
+sombrely  3 1 <m> <b> <r> 
+exported  2 0 <x> <p> 
+misspends  2 0 <ss> <p> 
+incisively  3 2 <n> [c] 
+housedogs  3 2 <s> <e> <d> 
+pronouncedly  5 4 [n] 
+typewritten  3 2 <p> <e> <wr> 
+changeableness  3 2 <n> [g] 
+globetrotter  4 2 <b> <e> <t> <r> 
+stovepipes  3 2 <v> <e> <p> 
+hosepipes  3 2 <s> <e> <p> 
+nineteenth  3 2 <n> <e> <t> 
+wifelier  3 2 <f> <e> <l> 
+sundews  2 1 <n> <d> 
+cavemen  3 2 <v> <e> <m> 
+grapeshot  3 2 <p> <e> <sh> 
+omelettes  3 2 <m> <e> <l> 
+tranquilly  2 1 <n> <qu> 
+angular  2 1 <n> <g> 
+exploitation  3 0 <x> <p> <l> 
+nosering  3 2 <s> <e> <r> 
+actuating  2 1 <c> <t> 
+safeguarding  3 2 <f> <e> <g> 
+contumelious  2 1 <n> <t> 
+loosebox  3 2 <s> <e> <b> 
+unsightliness  3 2 <n> [s] 
+flashcube  2 1 <sh> <c> 
+prizemen  3 2 <z> <e> <m> 
+enduring  2 1 <n> <d> 
+shameless  3 2 <m> <e> <l> 
+exposes  2 0 <x> <p> 
+induces  2 1 <n> <d> 
+incendiary  2 1 <n> [c] 
+expedient  2 0 <x> <p> 
+lodestones  4 2 <d> <e> <s> <t> 
+timeless  3 2 <m> <e> <l> 
+remorseful  3 2 [m] 
+swineherds  3 2 <n> <e> <h> 
+platelayers  3 2 <t> <e> <l> 
+computations  2 1 <m> <p> 
+homelike  3 2 <m> <e> <l> 
+capsules  2 1 <p> <s> 
+lovelies  3 2 <v> <e> <l> 
+escapement  3 2 [s] [c] 
+stagecoach  3 2 <g> <e> <c> 
+disquisitions  2 1 <s> <qu> 
+saddlebags  3 2 [dd] 
+crackleware  3 2 [ck] 
+horseback  3 2 <s> <e> <b> 
+misspell  2 0 <ss> <p> 
+astutely  3 2 [s] [t] 

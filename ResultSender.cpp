@@ -21,7 +21,7 @@ ResultSender::~ResultSender()
 {
 }
 
-void ResultSender::sendResult(std::map<std::string, std::string> & result)
+void ResultSender::sendResult(std::map<std::string, std::string> & result) const
 {
     MapSerializer serializer;
     std::string serialized = serializer.serialize(result);

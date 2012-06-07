@@ -23,6 +23,7 @@ public:
     
     virtual ~MPIRunner();
     const int node() const { return _myNode; }
+    const int total() const { return _totalNodes; }
 private:
     int _myNode;
     int _totalNodes;

@@ -34,7 +34,7 @@ void MPIRunner::startup(Task & task, Aggregator & aggregator)
     
     if (!isMaster())
     {
-        task.run(sender);
+        task.run(sender, *this);
         sender.processComplete();
     }
     else

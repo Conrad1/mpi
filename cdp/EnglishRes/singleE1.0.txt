@@ -1,0 +1,7 @@
+out selectiveness 5 4 2
+out resettlements 5 4 2
+out defensiveness 5 4 2
+out defectiveness 5 4 2
+out retentiveness 5 4 2
+out resettlement 5 4 2
+out effectiveness 5 4 2

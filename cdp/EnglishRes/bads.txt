@@ -1,0 +1,15 @@
+0 panzer p.+a+n.z.++er+++++++++++ p{n.ts@ 2 2 2 0 1 2
+0 walkaway w.+a+l.k.++aw+++ay++++++++ w$k.@.w1 3 3 2 0 1 0
+0 tiresomely t.+ir+++e+s.++o+m.++e+l.++y++ t2.@.s@m.lI 4 4 0 0 0 0
+0 walkabout w.+a+l.k.++a+b.++ou+t.+++++++ w$k.@.b6t 3 3 2 0 1 0
+0 walkabouts w.+a+l.k.++a+b.++ou+t.s.+++++++ w$k.@.b6ts 3 3 2 0 1 0
+0 straightedge s.t.r.+ai+gh.t.++e+dg.++e++++++++ str1t.E_ 2 2 2 0 1 0
+0 walkout w.+a+l.k.++ou+t.++++++++++ w$k.6t 2 2 2 0 1 0
+0 straightedges s.t.r.+ai+gh.t.++e+dg.++e+s.+++++++ str1t.E._Iz 3 3 2 0 1 0
+0 yachting y.+a+ch.t.++i+ng.++++++++++ jQt.IN 2 2 2 0 1 0
+0 princeliest p.r.+i+n.c.++e+l.++ie+s.t.+++++++ prIns.lI.Ist 3 3 2 0 2 1
+0 manhour m.+a+n.h.++our+++++++++++ m{n.6.@ 3 3 2 0 1 0
+0 walkaways w.+a+l.k.++aw+++ay+s.+++++++ w$k.@.w1z 3 3 2 0 1 0
+0 hustlers h.+u+s.t.l.++er+s.++++++++++ hVs.@l.@z 3 3 2 0 1 0
+0 manhours m.+a+n.h.++our+s.++++++++++ m{n.6.@z 3 3 2 0 1 0
+0 walkouts w.+a+l.k.++ou+t.s.++++++++++ w$k.6ts 2 2 2 0 1 0

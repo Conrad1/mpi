@@ -21,12 +21,12 @@ public:
     ResultSender(const ResultSender& orig);
     virtual ~ResultSender();
     
-    void sendResult(std::map<std::string, std::string> & result);
+    void sendResult(std::map<std::string, std::string> & result) const;
     void processComplete();
 private:
     
     const MPIRunner & _runner;
-    int _sendCount;
+    mutable int _sendCount;
     
 };
 

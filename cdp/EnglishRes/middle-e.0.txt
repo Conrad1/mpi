@@ -1,0 +1,10 @@
+out foretelling 4 3 2
+out daredevil 4 3 2
+out carelessly 4 3 2
+out daredevils 4 3 2
+out aforementioned 5 4 2
+out carelessness 4 3 2
+out surefootedly 5 4 2
+out foreshortening 5 4 2
+out surefootedness 5 4 2
+out adventuresome 5 4 2

@@ -1,0 +1,15 @@
+panzer <n> <z> 
+walkaway <l> <k> 
+tiresomely 
+walkabout <l> <k> 
+walkabouts <l> <k> 
+straightedge <gh> <t> 
+walkout <l> <k> 
+straightedges <gh> <t> 
+yachting <ch> <t> 
+princeliest <n> <c> 
+manhour <n> <h> 
+walkaways <l> <k> 
+hustlers <s> <t> 
+manhours <n> <h> 
+walkouts <l> <k> 
