@@ -20,24 +20,28 @@ CommChannel::CommChannel(const CommChannel& orig)
 
 void CommChannel::bind()
 {
-    _streamRequest = MPI::COMM_WORLD.Irecv(&_totalExpected, 1, MPI::INT, _endpoint, COMPLETE);
-    _dataRequest = MPI::COMM_WORLD.Irecv(_receiveBuffer, 1024, MPI::CHAR, _endpoint, MESSAGE);
+    MPI_Irecv(&_totalExpected, 1, MPI_INT, _endpoint, COMPLETE, MPI_COMM_WORLD, &_streamRequest);
+    MPI_Irecv(_receiveBuffer, 1024, MPI_CHAR, _endpoint, MESSAGE, MPI_COMM_WORLD, &_dataRequest);
     tick();
 }
 
 void CommChannel::tick()
 {
-    if (_dataRequest.Test())
+	int dataTest = 0;
+	MPI_Test(&_dataRequest, &dataTest,  MPI_STATUS_IGNORE);
+    if (dataTest)
     {
         char temp[1024];
         strcpy(temp, _receiveBuffer);
         
         _data.push_back(temp);
         
-        _dataRequest = MPI::COMM_WORLD.Irecv(_receiveBuffer, 1024, MPI::CHAR, _endpoint, MESSAGE);
+        _dataRequest = MPI_Irecv(_receiveBuffer, 1024, MPI_CHAR, _endpoint, MESSAGE, MPI_COMM_WORLD, &_dataRequest);
     }
     
-    if (_streamRequest.Test() && !_closed)
+	int streamTest = 0;
+	MPI_Test(&_streamRequest, &streamTest,  MPI_STATUS_IGNORE);
+    if (streamTest && !_closed)
     {
         _closed = true;
         DEBUG_LOG << "Stream terminated: " << _endpoint << std::endl;

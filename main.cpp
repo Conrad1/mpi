@@ -6,7 +6,6 @@
  */
 
 #include <cstdlib>
-#include <mpi/mpi.h>
 #include "MPIRunner.h"
 #include "common.h"
 #include "ResultSender.h"

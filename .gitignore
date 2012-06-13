@@ -1,1 +1,4 @@
 build/*
+Debug/*
+mpi.*
+ipch/*

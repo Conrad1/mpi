@@ -8,7 +8,6 @@
 #ifndef CHANNEL_H
 #define	CHANNEL_H
 
-#include <mpi/mpi.h>
 #include "common.h"
 
 
@@ -26,8 +25,9 @@ private:
     int _endpoint;
     
     void bind();
-    MPI::Request _streamRequest;
-    MPI::Request _dataRequest;
+    MPI_Request _streamRequest;
+    MPI_Request _dataRequest;
+
     char _receiveBuffer[1024];
     bool _closed;
     int _totalExpected;

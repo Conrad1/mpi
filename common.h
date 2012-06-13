@@ -8,6 +8,16 @@
 #ifndef COMMON_H
 #define	COMMON_H
 
+#ifdef _MSC_VER
+	#include <mpi.h>
+	#include <windows.h>
+	#define SLEEP(milis) Sleep(milis)
+#else
+	#include <mpi/mpi.h>
+	#define SLEEP(milis) usleep(milis * 1000)
+#endif
+
+
 #include <string.h>
 #include <vector>
 #include <map>

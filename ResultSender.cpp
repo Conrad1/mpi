@@ -7,7 +7,7 @@
 
 #include "ResultSender.h"
 #include "MapSerializer.h"
-#include <mpi/mpi.h>
+#include "common.h"
 
 ResultSender::ResultSender(const MPIRunner &runner) : _runner(runner), _sendCount(0)
 {
@@ -27,13 +27,13 @@ void ResultSender::sendResult(std::map<std::string, std::string> & result) const
     std::string serialized = serializer.serialize(result);
     const char * buf = serialized.c_str();
     
-    MPI::COMM_WORLD.Send(buf, serialized.length() + 1, MPI::CHAR, 0, MESSAGE);
+    MPI_Send((void *)buf, serialized.length() + 1, MPI_CHAR, 0, MESSAGE, MPI_COMM_WORLD);
     _sendCount++;
 }
 
 void ResultSender::processComplete()
 {
-    MPI::COMM_WORLD.Send(&_sendCount, 1, MPI::INT, 0, COMPLETE);
+    MPI_Send(&_sendCount, 1, MPI_INT, 0, COMPLETE, MPI_COMM_WORLD);
 }
 
 

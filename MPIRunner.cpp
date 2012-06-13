@@ -6,21 +6,19 @@
  */
 
 #include "MPIRunner.h"
-#include <mpi/mpi.h>
 #include "common.h"
 #include "ResultSender.h"
 #include "CommChannel.h"
 #include "MapSerializer.h"
 
+static const int MAX_CHANNELS = 2048;
 
 MPIRunner::MPIRunner(int &argc, char **&argv)
 {
-    MPI::Init(argc, argv);
-    _myNode = MPI::COMM_WORLD.Get_rank();
-    
-    _totalNodes = MPI::COMM_WORLD.Get_size();
+    MPI_Init(&argc, &argv);
+    MPI_Comm_rank(MPI_COMM_WORLD, &_myNode);
+    MPI_Comm_size(MPI_COMM_WORLD, &_totalNodes);
     DEBUG_LOG << "Started up - node " << _myNode << std::endl;
-
 }
 
 MPIRunner::MPIRunner(const MPIRunner& orig)
@@ -48,7 +46,7 @@ void MPIRunner::waitToAggregate(Aggregator & aggregator)
     DEBUG_LOG << "Waiting to aggregate results" << std::endl;
     DEBUG_LOG << "Total nodes " << _totalNodes << std::endl;
     
-    CommChannel * channels[_totalNodes];
+    CommChannel * channels[MAX_CHANNELS];
     MapSerializer serializer;
     for (int node = 1; node < _totalNodes; node++ )
     {
@@ -58,7 +56,7 @@ void MPIRunner::waitToAggregate(Aggregator & aggregator)
     bool allClosed = false;
     while (!allClosed)
     {
-        usleep(1000);
+        SLEEP(1);
         allClosed = true;
         for (int ch = 0; ch < (_totalNodes - 1); ch++)
         {
@@ -87,6 +85,6 @@ void MPIRunner::waitToAggregate(Aggregator & aggregator)
 
 MPIRunner::~MPIRunner()
 {
-    MPI::Finalize();
+    MPI_Finalize();
 }
 
