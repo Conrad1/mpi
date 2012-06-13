@@ -36,7 +36,7 @@ void CommChannel::tick()
         
         _data.push_back(temp);
         
-        _dataRequest = MPI_Irecv(_receiveBuffer, 1024, MPI_CHAR, _endpoint, MESSAGE, MPI_COMM_WORLD, &_dataRequest);
+        MPI_Irecv(_receiveBuffer, 1024, MPI_CHAR, _endpoint, MESSAGE, MPI_COMM_WORLD, &_dataRequest);
     }
     
 	int streamTest = 0;
