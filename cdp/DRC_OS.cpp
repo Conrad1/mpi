@@ -33,7 +33,9 @@ DRC_OS::DRC_OS()
 	sum_init = FALSE;
 	sum_init2 = FALSE;
 
-#ifndef ISMFC
+#if ISMFC
+
+#else
 	InterestSave[0] = 0;
 #endif
 
