@@ -26,7 +26,7 @@
 #define DEBUG_LOG std::cout << "DEBUG: "
 void friendlyExit(int code);
 
-#define exit(code) friendlyExit(code);
+//#define exit(code) friendlyExit(code);
 #define _exit(code) friendlyExit(code);
 
 #endif	/* COMMON_H */

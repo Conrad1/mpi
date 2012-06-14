@@ -33,6 +33,10 @@ DRC_OS::DRC_OS()
 	sum_init = FALSE;
 	sum_init2 = FALSE;
 
+#ifndef ISMFC
+	InterestSave[0] = 0;
+#endif
+
 	for(i=0;i<MAXPOS;i++) {
 		MinShowLetterGraphs[i] = 0.01;
 		MinShowPhonemeGraphs[i] = 0.01;
@@ -456,6 +460,7 @@ void DRC_OS::OrthLexInf(int i, int Cycle)
 				}
 			}
 		}
+		
 	}
 	if(SpecSave != FALSE) {
 		if(SavingOrth[i] == TRUE) {

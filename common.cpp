@@ -4,5 +4,6 @@
 void friendlyExit(int code)
 {
     std::cout << "Exiting " << __FILE__ << " - line " << __LINE__ << std::endl; 
+	fflush(stdout);
     exit(code);
 }
