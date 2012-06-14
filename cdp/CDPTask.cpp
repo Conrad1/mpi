@@ -15,7 +15,7 @@
 #define TRUE 1
 #define FALSE 0
 
-static const char * WORKING_DIR = "/home/matt/work/mpi_wrapper";
+static const char * WORKING_DIR = "c:/work/mpi_wrapper";
 
 CDPTask::CDPTask(const char * filename) : _filename(filename)
 {
@@ -42,7 +42,7 @@ void CDPTask::run(const ResultSender & resultSender, const MPIRunner & runner)
 
 void CDPTask::runBatch(const ResultSender & resultSender)
 {
-    DEBUG_LOG << "Running batch" << std::endl;
+    DEBUG_LOG << "Running batch between " << start << " and " << finish << std::endl;
 	FILE *crud,*fp;
     
     int lineCount = 0;
@@ -120,8 +120,8 @@ void CDPTask::runBatch(const ResultSender & resultSender)
 		return;
 	}
 	while (fscanf(fp, "%s%d", Word, &Cyc) != EOF) {
-        DEBUG_LOG << "WORD: " << Word << std::endl;
 		UpToCount++;
+        DEBUG_LOG << "WORD num: " << UpToCount << std::endl;
 		if(UpToCount > finish) return;
 		if(UpToCount >= start && UpToCount <= finish) {
 			printf("-->%s\n",Word);fflush(stdout);
@@ -187,7 +187,8 @@ void CDPTask::runBatch(const ResultSender & resultSender)
 
 void CDPTask::computeBatch(const int node, const int totalNodes)
 {
-    int lineCount = 0, batchSize;
+    int lineCount = 0;
+	float batchSize = 0;
     
     FILE * fp = fopen(_filename,"r");
     char buf[1024];
@@ -199,8 +200,8 @@ void CDPTask::computeBatch(const int node, const int totalNodes)
     }
     
     batchSize = lineCount / (totalNodes - 1);
-    
+    DEBUG_LOG << "Batch size " << batchSize << " node: " << node << " totalNodes: " << totalNodes << " lineCount: " << lineCount << std::endl;
     start = batchSize * (node - 1);
-    finish = batchSize * node;
+	finish = (batchSize * node) - 1;
 }
 
